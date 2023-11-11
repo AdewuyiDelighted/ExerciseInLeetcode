@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCodeExercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LengthLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlusOneMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/InsertPositionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LengthLastWordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/RotateImageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/AddDigitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/RotateImageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/RotateImageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,11 +47,12 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -74,48 +64,49 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RotateImage">
-    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateImage" />
+  <component name="RunManager" selected="Application.AddDigit">
+    <configuration name="AddDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddDigit" />
       <module name="leetCodeExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateImageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddDigitTest.testFunctionReturnTenTimesTheLengthOfInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RotateImageTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateImageTest.rotateImageAtFirstRow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RotateImageTest" />
-      <option name="METHOD_NAME" value="rotateImageAtFirstRow" />
+      <option name="MAIN_CLASS_NAME" value="AddDigitTest" />
+      <option name="METHOD_NAME" value="testFunctionReturnTenTimesTheLengthOfInput" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateImageTest.testThatFunctionRotateTheFirstRowClockWise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfThe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RotateImageTest" />
-      <option name="METHOD_NAME" value="testThatFunctionRotateTheFirstRowClockWise" />
+      <option name="MAIN_CLASS_NAME" value="AddDigitTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfThe" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateImageTest.testThatTheLengthOfTheTwoDimensionalArrayIsEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfTheInputLengthIsMoreThanTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RotateImageTest" />
-      <option name="METHOD_NAME" value="testThatTheLengthOfTheTwoDimensionalArrayIsEqual" />
+      <option name="MAIN_CLASS_NAME" value="AddDigitTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfTheInputLengthIsMoreThanTen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddDigitTest.testThatFunctionReturnReturnTheOneDigitAfterItHasSumUpAllInputDigit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddDigitTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnReturnTheOneDigitAfterItHasSumUpAllInputDigit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotateImage" />
-        <item itemvalue="JUnit.RotateImageTest.rotateImageAtFirstRow" />
-        <item itemvalue="JUnit.RotateImageTest.testThatTheLengthOfTheTwoDimensionalArrayIsEqual" />
-        <item itemvalue="JUnit.RotateImageTest.testThatFunctionRotateTheFirstRowClockWise" />
-        <item itemvalue="JUnit.RotateImageTest" />
+        <item itemvalue="Application.AddDigit" />
+        <item itemvalue="JUnit.AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfTheInputLengthIsMoreThanTen" />
+        <item itemvalue="JUnit.AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfThe" />
+        <item itemvalue="JUnit.AddDigitTest.testThatFunctionReturnReturnTheOneDigitAfterItHasSumUpAllInputDigit" />
+        <item itemvalue="JUnit.AddDigitTest.testFunctionReturnTenTimesTheLengthOfInput" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +132,8 @@
       <updated>1699468677687</updated>
       <workItem from="1699468678750" duration="7055000" />
       <workItem from="1699563321483" duration="18253000" />
-      <workItem from="1699629093466" duration="595000" />
+      <workItem from="1699629093466" duration="2309000" />
+      <workItem from="1699724228037" duration="4239000" />
     </task>
     <servers />
   </component>
