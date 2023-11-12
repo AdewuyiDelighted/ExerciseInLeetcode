@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/AddDigitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddDigitMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/RotateImageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/RotateImageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddDigit">
+  <component name="RunManager" selected="Application.RotateImage">
     <configuration name="AddDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddDigit" />
       <module name="leetCodeExercise" />
@@ -72,12 +71,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddDigitTest.testFunctionReturnTenTimesTheLengthOfInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddDigitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddDigitMain" />
       <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AddDigitTest" />
-      <option name="METHOD_NAME" value="testFunctionReturnTenTimesTheLengthOfInput" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotateImage" />
+      <module name="leetCodeExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,23 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddDigitTest.testThatFunctionReturnReturnTheOneDigitAfterItHasSumUpAllInputDigit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AddDigitTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnReturnTheOneDigitAfterItHasSumUpAllInputDigit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateImage" />
+        <item itemvalue="Application.AddDigitMain" />
         <item itemvalue="Application.AddDigit" />
         <item itemvalue="JUnit.AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfTheInputLengthIsMoreThanTen" />
         <item itemvalue="JUnit.AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfThe" />
-        <item itemvalue="JUnit.AddDigitTest.testThatFunctionReturnReturnTheOneDigitAfterItHasSumUpAllInputDigit" />
-        <item itemvalue="JUnit.AddDigitTest.testFunctionReturnTenTimesTheLengthOfInput" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +127,8 @@
       <workItem from="1699563321483" duration="18253000" />
       <workItem from="1699629093466" duration="2309000" />
       <workItem from="1699724228037" duration="4239000" />
+      <workItem from="1699736764036" duration="2390000" />
+      <workItem from="1699787821842" duration="10058000" />
     </task>
     <servers />
   </component>
