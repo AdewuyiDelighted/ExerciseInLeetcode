@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddDigitMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubSequenceMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RotateImage">
+  <component name="RunManager" selected="Application.SubSequenceMain">
     <configuration name="AddDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddDigit" />
       <module name="leetCodeExercise" />
@@ -85,33 +85,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfThe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubSequence" />
       <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AddDigitTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfThe" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfTheInputLengthIsMoreThanTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubSequenceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubSequenceMain" />
       <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AddDigitTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfTheInputLengthIsMoreThanTen" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubSequenceMain" />
+        <item itemvalue="Application.SubSequence" />
         <item itemvalue="Application.RotateImage" />
         <item itemvalue="Application.AddDigitMain" />
         <item itemvalue="Application.AddDigit" />
-        <item itemvalue="JUnit.AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfTheInputLengthIsMoreThanTen" />
-        <item itemvalue="JUnit.AddDigitTest.testThatFunctionReturnOneDigitAfterItHasSumUpAllInputDigitEvenIfThe" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +123,8 @@
       <workItem from="1699724228037" duration="4239000" />
       <workItem from="1699736764036" duration="2390000" />
       <workItem from="1699787821842" duration="10058000" />
+      <workItem from="1699841181095" duration="3394000" />
+      <workItem from="1699901738638" duration="51000" />
     </task>
     <servers />
   </component>
