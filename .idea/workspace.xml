@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SubSequenceMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ThirdMaximumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,49 +62,60 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubSequenceMain">
-    <configuration name="AddDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddDigit" />
+  <component name="RunManager" selected="Application.ThirdMaximum">
+    <configuration name="ThirdMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdMaximum" />
       <module name="leetCodeExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddDigitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddDigitMain" />
+    <configuration name="ThirdMaximumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThirdMaximumTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateImage" />
+    <configuration name="ThirdMaximumTest.elementInTheArrayAreDistinctNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThirdMaximumTest" />
+      <option name="METHOD_NAME" value="elementInTheArrayAreDistinctNumbers" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubSequence" />
+    <configuration name="ThirdMaximumTest.elementInTheArrayAreDistinctNumbersAndTheyAreSortedInDescendingOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThirdMaximumTest" />
+      <option name="METHOD_NAME" value="elementInTheArrayAreDistinctNumbersAndTheyAreSortedInDescendingOrder" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSequenceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubSequenceMain" />
+    <configuration name="ThirdMaximumTest.elementInTheArrayAreDistinctNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThirdMaximumTest" />
+      <option name="METHOD_NAME" value="elementInTheArrayAreDistinctNumbersInArray" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubSequenceMain" />
-        <item itemvalue="Application.SubSequence" />
-        <item itemvalue="Application.RotateImage" />
-        <item itemvalue="Application.AddDigitMain" />
-        <item itemvalue="Application.AddDigit" />
+        <item itemvalue="Application.ThirdMaximum" />
+        <item itemvalue="JUnit.ThirdMaximumTest.elementInTheArrayAreDistinctNumbersAndTheyAreSortedInDescendingOrder" />
+        <item itemvalue="JUnit.ThirdMaximumTest.elementInTheArrayAreDistinctNumbersInArray" />
+        <item itemvalue="JUnit.ThirdMaximumTest" />
+        <item itemvalue="JUnit.ThirdMaximumTest.elementInTheArrayAreDistinctNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +135,14 @@
       <workItem from="1699787821842" duration="10058000" />
       <workItem from="1699841181095" duration="3394000" />
       <workItem from="1699901738638" duration="51000" />
+      <workItem from="1699908803080" duration="581000" />
+      <workItem from="1699991795923" duration="729000" />
+      <workItem from="1700053656938" duration="68000" />
+      <workItem from="1700239899936" duration="1113000" />
+      <workItem from="1700241052839" duration="943000" />
+      <workItem from="1700242117156" duration="43000" />
+      <workItem from="1700242175691" duration="41000" />
+      <workItem from="1700242311854" duration="7705000" />
     </task>
     <servers />
   </component>
@@ -142,6 +160,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ThirdMaximum.java</url>
+          <line>44</line>
+          <properties class="ThirdMaximum" method="findThirdMaximum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
