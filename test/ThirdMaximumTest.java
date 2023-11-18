@@ -29,6 +29,20 @@ public class ThirdMaximumTest {
           int []  distinctNumbers = ThirdMaximum.sortedDistinct(numbers);
           assertArrayEquals(answer,distinctNumbers);
      }
+     @Test
+     public void testThatFunctionReturnTheThirdMaximumDistinctNumberInTheArray(){
+          int []  numbers = {3,2,5,4,6,2,3};
+          int answer  = 4;
+          int  distinctNumbers = ThirdMaximum.findThirdMaximum(numbers);
+          assertEquals(answer,distinctNumbers);
+     }
+     @Test
+     public void testThatFunctionReturnTheMaximum_ifTheLengthOfArrayINotUpToThree(){
+          int [] numbers = {34,56};
+          int answer = 56;
+          assertEquals(answer,ThirdMaximum.findThirdMaximum(numbers));
+
+     }
 
 
 

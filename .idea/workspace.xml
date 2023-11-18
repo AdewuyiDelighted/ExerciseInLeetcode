@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ThirdMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ThirdMaximumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MedianOfMergedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MedianOfMergedArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ThirdMaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ThirdMaximumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -58,52 +60,56 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThirdMaximum">
-    <configuration name="ThirdMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirdMaximum" />
+  <component name="RunManager" selected="JUnit.MedianOfMergedArrayTest.ifATwoDifferentArrayIsGiven_FunctionWould_merged_sort_and_returnItsMedian_test">
+    <configuration name="MedianOfMergedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArray" />
       <module name="leetCodeExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdMaximumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MedianOfMergedArrayTest.ifATwoDifferentArrayIsGiven_FunctionWould_merged_sort_and_returnItsMedian_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ThirdMaximumTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThirdMaximumTest.elementInTheArrayAreDistinctNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ThirdMaximumTest" />
-      <option name="METHOD_NAME" value="elementInTheArrayAreDistinctNumbers" />
+      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArrayTest" />
+      <option name="METHOD_NAME" value="ifATwoDifferentArrayIsGiven_FunctionWould_merged_sort_and_returnItsMedian_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdMaximumTest.elementInTheArrayAreDistinctNumbersAndTheyAreSortedInDescendingOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MedianOfMergedArrayTest.testThatArrayIsSortedInAscendingOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ThirdMaximumTest" />
-      <option name="METHOD_NAME" value="elementInTheArrayAreDistinctNumbersAndTheyAreSortedInDescendingOrder" />
+      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArrayTest" />
+      <option name="METHOD_NAME" value="testThatArrayIsSortedInAscendingOrder" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdMaximumTest.elementInTheArrayAreDistinctNumbersInArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MedianOfMergedArrayTest.testThatFunctionCanFindTheMedianOfAnArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ThirdMaximumTest" />
-      <option name="METHOD_NAME" value="elementInTheArrayAreDistinctNumbersInArray" />
+      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArrayTest" />
+      <option name="METHOD_NAME" value="testThatFunctionCanFindTheMedianOfAnArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedianOfMergedArrayTest.testThatTwoDifferentArrayWithLongerLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArrayTest" />
+      <option name="METHOD_NAME" value="testThatTwoDifferentArrayWithLongerLength" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThirdMaximum" />
-        <item itemvalue="JUnit.ThirdMaximumTest.elementInTheArrayAreDistinctNumbersAndTheyAreSortedInDescendingOrder" />
-        <item itemvalue="JUnit.ThirdMaximumTest.elementInTheArrayAreDistinctNumbersInArray" />
-        <item itemvalue="JUnit.ThirdMaximumTest" />
-        <item itemvalue="JUnit.ThirdMaximumTest.elementInTheArrayAreDistinctNumbers" />
+        <item itemvalue="JUnit.MedianOfMergedArrayTest.ifATwoDifferentArrayIsGiven_FunctionWould_merged_sort_and_returnItsMedian_test" />
+        <item itemvalue="JUnit.MedianOfMergedArrayTest.testThatFunctionCanFindTheMedianOfAnArray" />
+        <item itemvalue="Application.MedianOfMergedArray" />
+        <item itemvalue="JUnit.MedianOfMergedArrayTest.testThatArrayIsSortedInAscendingOrder" />
+        <item itemvalue="JUnit.MedianOfMergedArrayTest.testThatTwoDifferentArrayWithLongerLength" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +149,8 @@
       <workItem from="1700242117156" duration="43000" />
       <workItem from="1700242175691" duration="41000" />
       <workItem from="1700242311854" duration="7705000" />
+      <workItem from="1700287932214" duration="6503000" />
+      <workItem from="1700325679868" duration="395000" />
     </task>
     <servers />
   </component>
@@ -160,15 +168,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ThirdMaximum.java</url>
-          <line>44</line>
-          <properties class="ThirdMaximum" method="findThirdMaximum">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

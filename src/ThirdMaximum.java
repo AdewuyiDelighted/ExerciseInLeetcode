@@ -3,16 +3,9 @@ import java.util.Arrays;
 import java.util.Date;
 
 public class ThirdMaximum {
-    Date date;
-
-    public void setDate(Date date) {
-        this.date = date;
-
-    }
 
     public static void main(String[] args) {
-        int[] numbers = {3, 2, 5, 4, 6, 2, 3};
-        int[] answer = {3, 2, 5, 4, 6};
+        int[] numbers = {2,2,3,1};
         System.out.println(findThirdMaximum(numbers));
 
     }
@@ -43,23 +36,14 @@ public class ThirdMaximum {
     }
 
     public static int findThirdMaximum(int[] numbers) {
-        int thirdMax = 0;
-        int maxCounter = 0;
-
         int[] allElement = sortedDistinct(numbers);
-        for(int count = 0;count < allElement.length;count++) {
-            for (int index = count + 1; index < allElement.length; index++) {
-                int maximum = allElement[count];
-                if (maximum > allElement[index]) {
-                   maxCounter++;
-                }
-                if(maxCounter == index); int anotherCounter++;
-                if (maxCounter == 3) {
-                    thirdMax = allElement[count];
-                }
-
-            }
+        int thirdMax = 0;
+        if(allElement.length >= 3){
+            thirdMax = allElement[2];
+        }else {
+            thirdMax = allElement[0];
         }
+
         return thirdMax;
     }
 
