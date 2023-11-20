@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MedianOfMergedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MedianOfMergedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LengthSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LengthOfSubarrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThirdMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdMaximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ThirdMaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ThirdMaximumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -67,49 +65,51 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MedianOfMergedArrayTest.ifATwoDifferentArrayIsGiven_FunctionWould_merged_sort_and_returnItsMedian_test">
-    <configuration name="MedianOfMergedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArray" />
+  <component name="RunManager" selected="JUnit.LengthOfSubarrayTest">
+    <configuration name="LengthOfSubarrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianOfMergedArrayTest.ifATwoDifferentArrayIsGiven_FunctionWould_merged_sort_and_returnItsMedian_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LengthOfSubarrayTest.testIfSomeElementInTheArrayArNegativeValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArrayTest" />
-      <option name="METHOD_NAME" value="ifATwoDifferentArrayIsGiven_FunctionWould_merged_sort_and_returnItsMedian_test" />
+      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
+      <option name="METHOD_NAME" value="testIfSomeElementInTheArrayArNegativeValue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianOfMergedArrayTest.testThatArrayIsSortedInAscendingOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LengthOfSubarrayTest.testIfTheStartOfSubarrayIsNegativeElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArrayTest" />
-      <option name="METHOD_NAME" value="testThatArrayIsSortedInAscendingOrder" />
+      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
+      <option name="METHOD_NAME" value="testIfTheStartOfSubarrayIsNegativeElement" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianOfMergedArrayTest.testThatFunctionCanFindTheMedianOfAnArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LengthOfSubarrayTest.testIfTheStartOfSubarrayIsNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArrayTest" />
-      <option name="METHOD_NAME" value="testThatFunctionCanFindTheMedianOfAnArray" />
+      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
+      <option name="METHOD_NAME" value="testIfTheStartOfSubarrayIsNotFound" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianOfMergedArrayTest.testThatTwoDifferentArrayWithLongerLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LengthOfSubarrayTest.testThatFunctionReturnTheLengthOfOfTheLongestSubArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MedianOfMergedArrayTest" />
-      <option name="METHOD_NAME" value="testThatTwoDifferentArrayWithLongerLength" />
+      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnTheLengthOfOfTheLongestSubArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MedianOfMergedArrayTest.ifATwoDifferentArrayIsGiven_FunctionWould_merged_sort_and_returnItsMedian_test" />
-        <item itemvalue="JUnit.MedianOfMergedArrayTest.testThatFunctionCanFindTheMedianOfAnArray" />
-        <item itemvalue="Application.MedianOfMergedArray" />
-        <item itemvalue="JUnit.MedianOfMergedArrayTest.testThatArrayIsSortedInAscendingOrder" />
-        <item itemvalue="JUnit.MedianOfMergedArrayTest.testThatTwoDifferentArrayWithLongerLength" />
+        <item itemvalue="JUnit.LengthOfSubarrayTest" />
+        <item itemvalue="JUnit.LengthOfSubarrayTest.testIfTheStartOfSubarrayIsNegativeElement" />
+        <item itemvalue="JUnit.LengthOfSubarrayTest.testIfSomeElementInTheArrayArNegativeValue" />
+        <item itemvalue="JUnit.LengthOfSubarrayTest.testIfTheStartOfSubarrayIsNotFound" />
+        <item itemvalue="JUnit.LengthOfSubarrayTest.testThatFunctionReturnTheLengthOfOfTheLongestSubArray" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +151,9 @@
       <workItem from="1700242311854" duration="7705000" />
       <workItem from="1700287932214" duration="6503000" />
       <workItem from="1700325679868" duration="395000" />
+      <workItem from="1700334318024" duration="1524000" />
+      <workItem from="1700368677251" duration="2654000" />
+      <workItem from="1700406732777" duration="88000" />
     </task>
     <servers />
   </component>
