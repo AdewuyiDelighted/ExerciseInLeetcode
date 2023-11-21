@@ -4,8 +4,8 @@ public class RotateImage {
     static int[] arrayFirst;
 
     public static void main(String[] args) {
-        int[][] array = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-        System.out.println(Arrays.deepToString(reverseColumn(array)));
+        int[][] array = {{1,2,3}, {4,5,6}, {7,8,9}};
+        System.out.println(Arrays.deepToString(rotateAll(array)));
     }
 
     public static boolean checkLengthOfArray() {
@@ -25,15 +25,24 @@ public class RotateImage {
 
 
     public static int[][] rotateAll(int[][] array) {
-        arrayFirst = array[0];
-        for (int index = 0; index < array.length; index++) {
+        int temp = 0;
+        int [] firstArray = new int [array[0].length];
+        for(int indices = 0;indices < array[0].length;indices++){
+            firstArray[indices] = array[0][indices];
+        }
+
+        for(int index = 0; index < array.length; index++) {
             int secondArrayFirstIndex = array.length - 1;
-            for (int count = 0; count < array[index].length - 1; count++) {
+            for (int count = 0; count < array[index].length; count++) {
+              //  array[index][array.length - 1] = firstArray[index];
                 array[index][count] = array[secondArrayFirstIndex][index];
                 secondArrayFirstIndex--;
-            }
 
+
+                array[index][array.length - 1] = firstArray[index];
+            }
         }
+       // array[index][array.length -1] = firstArray[index];
 
         return array;
     }

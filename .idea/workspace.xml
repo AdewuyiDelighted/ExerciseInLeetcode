@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LengthSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LengthOfSubarrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/NumberInPlaceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCodeExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetCodeExercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Object" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
@@ -34,26 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -65,63 +72,58 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LengthOfSubarrayTest">
-    <configuration name="LengthOfSubarrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RotateImage">
+    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotateImage" />
       <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfSubarrayTest.testIfSomeElementInTheArrayArNegativeValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberInPlaceTest.testNewArrayHasLengthIsEqualToLengthOfNumberWithoutVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
-      <option name="METHOD_NAME" value="testIfSomeElementInTheArrayArNegativeValue" />
+      <option name="MAIN_CLASS_NAME" value="NumberInPlaceTest" />
+      <option name="METHOD_NAME" value="testNewArrayHasLengthIsEqualToLengthOfNumberWithoutVal" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfSubarrayTest.testIfTheStartOfSubarrayIsNegativeElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberInPlaceTest.testThatFunctionThatReturnCountOfNumberNotEqualToVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
-      <option name="METHOD_NAME" value="testIfTheStartOfSubarrayIsNegativeElement" />
+      <option name="MAIN_CLASS_NAME" value="NumberInPlaceTest" />
+      <option name="METHOD_NAME" value="testThatFunctionThatReturnCountOfNumberNotEqualToVal" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfSubarrayTest.testIfTheStartOfSubarrayIsNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberInPlaceTest.testThatValIsNotInTheTheNewArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
-      <option name="METHOD_NAME" value="testIfTheStartOfSubarrayIsNotFound" />
+      <option name="MAIN_CLASS_NAME" value="NumberInPlaceTest" />
+      <option name="METHOD_NAME" value="testThatValIsNotInTheTheNewArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfSubarrayTest.testThatFunctionReturnTheLengthOfOfTheLongestSubArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FollowCome" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FollowCome" />
       <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthOfSubarrayTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnTheLengthOfOfTheLongestSubArray" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LengthOfSubarrayTest" />
-        <item itemvalue="JUnit.LengthOfSubarrayTest.testIfTheStartOfSubarrayIsNegativeElement" />
-        <item itemvalue="JUnit.LengthOfSubarrayTest.testIfSomeElementInTheArrayArNegativeValue" />
-        <item itemvalue="JUnit.LengthOfSubarrayTest.testIfTheStartOfSubarrayIsNotFound" />
-        <item itemvalue="JUnit.LengthOfSubarrayTest.testThatFunctionReturnTheLengthOfOfTheLongestSubArray" />
+        <item itemvalue="Application.RotateImage" />
+        <item itemvalue="JUnit.NumberInPlaceTest.testNewArrayHasLengthIsEqualToLengthOfNumberWithoutVal" />
+        <item itemvalue="JUnit.NumberInPlaceTest.testThatValIsNotInTheTheNewArray" />
+        <item itemvalue="JUnit.NumberInPlaceTest.testThatFunctionThatReturnCountOfNumberNotEqualToVal" />
+        <item itemvalue="Kotlin.FollowCome" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +156,8 @@
       <workItem from="1700334318024" duration="1524000" />
       <workItem from="1700368677251" duration="2654000" />
       <workItem from="1700406732777" duration="88000" />
+      <workItem from="1700509180480" duration="278000" />
+      <workItem from="1700542243824" duration="6558000" />
     </task>
     <servers />
   </component>
@@ -171,6 +175,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RotateImage.java</url>
+          <line>26</line>
+          <properties class="RotateImage" method="rotateAll">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
