@@ -26,9 +26,9 @@ public class RotateImage {
 
     public static int[][] rotateAll(int[][] array) {
         int temp = 0;
-        int [] firstArray = new int [array[0].length];
+        int [] [] anotherArray = new int [array.length][array[0].length];
         for(int indices = 0;indices < array[0].length;indices++){
-            firstArray[indices] = array[0][indices];
+            anotherArray[0]
         }
 
         for(int index = 0; index < array.length; index++) {

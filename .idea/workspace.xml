@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberInPlace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/NumberInPlaceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCodeExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetCodeExercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FollowCome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FollowCome.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,10 +115,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.RotateImage" />
+        <item itemvalue="Kotlin.FollowCome" />
         <item itemvalue="JUnit.NumberInPlaceTest.testNewArrayHasLengthIsEqualToLengthOfNumberWithoutVal" />
         <item itemvalue="JUnit.NumberInPlaceTest.testThatValIsNotInTheTheNewArray" />
         <item itemvalue="JUnit.NumberInPlaceTest.testThatFunctionThatReturnCountOfNumberNotEqualToVal" />
-        <item itemvalue="Kotlin.FollowCome" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +152,7 @@
       <workItem from="1700368677251" duration="2654000" />
       <workItem from="1700406732777" duration="88000" />
       <workItem from="1700509180480" duration="278000" />
-      <workItem from="1700542243824" duration="6558000" />
+      <workItem from="1700542243824" duration="10560000" />
     </task>
     <servers />
   </component>
@@ -175,15 +170,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/RotateImage.java</url>
-          <line>26</line>
-          <properties class="RotateImage" method="rotateAll">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
