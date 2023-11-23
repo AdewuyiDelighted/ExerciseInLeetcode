@@ -28,7 +28,7 @@ public class RotateImage {
         int temp = 0;
         int [] [] anotherArray = new int [array.length][array[0].length];
         for(int indices = 0;indices < array[0].length;indices++){
-            anotherArray[0]
+         //   anotherArray[0]
         }
 
         for(int index = 0; index < array.length; index++) {
@@ -39,7 +39,7 @@ public class RotateImage {
                 secondArrayFirstIndex--;
 
 
-                array[index][array.length - 1] = firstArray[index];
+              //  array[index][array.length - 1] = firstArray[index];
             }
         }
        // array[index][array.length -1] = firstArray[index];

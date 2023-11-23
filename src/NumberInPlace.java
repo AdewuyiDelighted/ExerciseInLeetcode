@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class NumberInPlace {
 
@@ -23,20 +22,14 @@ public class NumberInPlace {
         return nums;
 
     }
-    public static int[] removeElement(int [] nums,int elementToRemove){
-        // elementToRemove = -1;
+    public static int[] arrayWithLengthCount(int [] nums, int target){
+        nums = arrayWithoutVal(nums,target);
         ArrayList<Integer> numberNotVal = new ArrayList<>();
          for(int index = 0; index < nums.length;index++){
-             if(nums[index] != elementToRemove){
+             if(nums[index] != -1){
                  numberNotVal.add(nums[index]);
              }
          }
          return Convert.convertListToArray(numberNotVal);
-    }
-    public static int[] numberInPlace(int[] nums,int target){
-       int count = countElementNotEqualToVal(nums,target);
-       int [] array = arrayWithoutVal(nums,target);
-       int [] newArray = removeElement(nums,-1);
-        return newArray;
     }
 }
