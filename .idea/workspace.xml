@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekForGeeks/MissingAndRepeatingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekForGeeks/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/geekForGeeks/MissingAndRepeatingNumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberInPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberInPlace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/NumberInPlaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/NumberInPlaceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,67 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NumberInPlaceTest">
+  <component name="RunManager" selected="JUnit.MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut_Even_WhenTheLengthIsMoreThanThree">
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="geekForGeeks.Sort" />
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekForGeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingAndRepeatingNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekForGeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geekForGeeks" />
+      <option name="MAIN_CLASS_NAME" value="geekForGeeks.MissingAndRepeatingNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekForGeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geekForGeeks" />
+      <option name="MAIN_CLASS_NAME" value="geekForGeeks.MissingAndRepeatingNumberTest" />
+      <option name="METHOD_NAME" value="testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut_Even_WhenTheLengthIsMoreThanThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekForGeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geekForGeeks" />
+      <option name="MAIN_CLASS_NAME" value="geekForGeeks.MissingAndRepeatingNumberTest" />
+      <option name="METHOD_NAME" value="testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut_Even_WhenTheLengthIsMoreThanThree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberInPlaceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
@@ -80,53 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberInPlaceTest.testNewArrayHasLengthIsEqualToLengthOfNumberWithoutVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberInPlaceTest" />
-      <option name="METHOD_NAME" value="testNewArrayHasLengthIsEqualToLengthOfNumberWithoutVal" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberInPlaceTest.testThatFunctionReturnArrayWithoutVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberInPlaceTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnArrayWithoutVal" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberInPlaceTest.testThatFunctionThatReturnCountOfNumberNotEqualToVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberInPlaceTest" />
-      <option name="METHOD_NAME" value="testThatFunctionThatReturnCountOfNumberNotEqualToVal" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberInPlaceTest.testThatValIsNotInTheTheNewArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberInPlaceTest" />
-      <option name="METHOD_NAME" value="testThatValIsNotInTheTheNewArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut_Even_WhenTheLengthIsMoreThanThree" />
+        <item itemvalue="JUnit.MissingAndRepeatingNumberTest" />
+        <item itemvalue="JUnit.MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut" />
+        <item itemvalue="Application.Sort" />
         <item itemvalue="JUnit.NumberInPlaceTest" />
-        <item itemvalue="JUnit.NumberInPlaceTest.testThatFunctionReturnArrayWithoutVal" />
-        <item itemvalue="JUnit.NumberInPlaceTest.testNewArrayHasLengthIsEqualToLengthOfNumberWithoutVal" />
-        <item itemvalue="JUnit.NumberInPlaceTest.testThatValIsNotInTheTheNewArray" />
-        <item itemvalue="JUnit.NumberInPlaceTest.testThatFunctionThatReturnCountOfNumberNotEqualToVal" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +182,7 @@
       <workItem from="1700542243824" duration="10560000" />
       <workItem from="1700726263217" duration="45000" />
       <workItem from="1700730690813" duration="5112000" />
-      <workItem from="1700770210591" duration="2293000" />
+      <workItem from="1700770210591" duration="8806000" />
     </task>
     <servers />
   </component>
@@ -181,6 +200,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/geekForGeeks/MissingAndRepeatingNumber.java</url>
+          <line>4</line>
+          <properties class="geekForGeeks.MissingAndRepeatingNumber" method="findMissingNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/geekForGeeks/MissingAndRepeatingNumberTest.java</url>
+          <line>8</line>
+          <properties class="geekForGeeks.MissingAndRepeatingNumberTest" method="testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/geekForGeeks/MissingAndRepeatingNumberTest.java</url>
+          <line>15</line>
+          <properties class="geekForGeeks.MissingAndRepeatingNumberTest" method="testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut_Even_WhenTheLengthIsMoreThanThree">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
