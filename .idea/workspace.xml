@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geekForGeeks/MissingAndRepeatingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geekForGeeks/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/geekForGeeks/MissingAndRepeatingNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DetectCapital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentAttendanceRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DetectCapitalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/StudentAttendanceRecordTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -69,83 +69,63 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut_Even_WhenTheLengthIsMoreThanThree">
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="geekForGeeks.Sort" />
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geekForGeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MissingAndRepeatingNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geekForGeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geekForGeeks" />
-      <option name="MAIN_CLASS_NAME" value="geekForGeeks.MissingAndRepeatingNumberTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geekForGeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geekForGeeks" />
-      <option name="MAIN_CLASS_NAME" value="geekForGeeks.MissingAndRepeatingNumberTest" />
-      <option name="METHOD_NAME" value="testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut_Even_WhenTheLengthIsMoreThanThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geekForGeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geekForGeeks" />
-      <option name="MAIN_CLASS_NAME" value="geekForGeeks.MissingAndRepeatingNumberTest" />
-      <option name="METHOD_NAME" value="testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut_Even_WhenTheLengthIsMoreThanThree" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberInPlaceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.StudentAttendanceRecordTest">
+    <configuration name="StudentAttendanceRecordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberInPlaceTest" />
+      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentAttendanceRecordTest.testThatStudentReceiveAwardIfLateForThreeDays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
+      <option name="METHOD_NAME" value="testThatStudentReceiveAwardIfLateForThreeDays" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentAttendanceRecordTest.whenStudentIsAbsentForMoreTwoDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
+      <option name="METHOD_NAME" value="whenStudentIsAbsentForMoreTwoDayTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentAttendanceRecordTest.whenStudentIsAlwaysLateResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
+      <option name="METHOD_NAME" value="whenStudentIsAlwaysLateResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentAttendanceRecordTest.whenStudentIsAlwaysPresentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
+      <option name="METHOD_NAME" value="whenStudentIsAlwaysPresentTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut_Even_WhenTheLengthIsMoreThanThree" />
-        <item itemvalue="JUnit.MissingAndRepeatingNumberTest" />
-        <item itemvalue="JUnit.MissingAndRepeatingNumberTest.testThatWhenAnArrayOfNumberIsInputted_theMissingNumberIsPrintedOut" />
-        <item itemvalue="Application.Sort" />
-        <item itemvalue="JUnit.NumberInPlaceTest" />
+        <item itemvalue="JUnit.StudentAttendanceRecordTest" />
+        <item itemvalue="JUnit.StudentAttendanceRecordTest.whenStudentIsAbsentForMoreTwoDayTest" />
+        <item itemvalue="JUnit.StudentAttendanceRecordTest.whenStudentIsAlwaysPresentTest" />
+        <item itemvalue="JUnit.StudentAttendanceRecordTest.whenStudentIsAlwaysLateResult" />
+        <item itemvalue="JUnit.StudentAttendanceRecordTest.testThatStudentReceiveAwardIfLateForThreeDays" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +163,8 @@
       <workItem from="1700726263217" duration="45000" />
       <workItem from="1700730690813" duration="5112000" />
       <workItem from="1700770210591" duration="8806000" />
+      <workItem from="1700862066674" duration="142000" />
+      <workItem from="1700939975230" duration="5985000" />
     </task>
     <servers />
   </component>
@@ -227,6 +209,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DetectCapital.java</url>
+          <line>2</line>
+          <properties class="DetectCapital" method="detectCapital">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
