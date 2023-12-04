@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DetectCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentAttendanceRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DetectCapitalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/StudentAttendanceRecordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BasicCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/FizzBuzzTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/StudentAttendanceRecordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/StudentAttendanceRecordTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,51 +70,52 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudentAttendanceRecordTest">
-    <configuration name="StudentAttendanceRecordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest.testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz">
+    <configuration name="FizzBuzzTest.testThatWhenAnIntegerIsEnterFunctionReturnFromNumberOneToTeElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentAttendanceRecordTest.testThatStudentReceiveAwardIfLateForThreeDays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
-      <option name="METHOD_NAME" value="testThatStudentReceiveAwardIfLateForThreeDays" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testThatWhenAnIntegerIsEnterFunctionReturnFromNumberOneToTeElement" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentAttendanceRecordTest.whenStudentIsAbsentForMoreTwoDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
-      <option name="METHOD_NAME" value="whenStudentIsAbsentForMoreTwoDayTest" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentAttendanceRecordTest.whenStudentIsAlwaysLateResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_3_reminder_0_number_is_equal_Fizz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
-      <option name="METHOD_NAME" value="whenStudentIsAlwaysLateResult" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_3_reminder_0_number_is_equal_Fizz" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentAttendanceRecordTest.whenStudentIsAlwaysPresentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_5_reminder_0_number_is_equal_Buzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StudentAttendanceRecordTest" />
-      <option name="METHOD_NAME" value="whenStudentIsAlwaysPresentTest" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_5_reminder_0_number_is_equal_Buzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.when_i_input_number_number_divided_by_three_would_return_fizz_while__number_divided_by_five_would_return_buzz_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
+      <option name="METHOD_NAME" value="when_i_input_number_number_divided_by_three_would_return_fizz_while__number_divided_by_five_would_return_buzz_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentAttendanceRecordTest" />
-        <item itemvalue="JUnit.StudentAttendanceRecordTest.whenStudentIsAbsentForMoreTwoDayTest" />
-        <item itemvalue="JUnit.StudentAttendanceRecordTest.whenStudentIsAlwaysPresentTest" />
-        <item itemvalue="JUnit.StudentAttendanceRecordTest.whenStudentIsAlwaysLateResult" />
-        <item itemvalue="JUnit.StudentAttendanceRecordTest.testThatStudentReceiveAwardIfLateForThreeDays" />
+        <item itemvalue="JUnit.FizzBuzzTest.testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz" />
+        <item itemvalue="JUnit.FizzBuzzTest.when_i_input_number_number_divided_by_three_would_return_fizz_while__number_divided_by_five_would_return_buzz_test" />
+        <item itemvalue="JUnit.FizzBuzzTest.when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_5_reminder_0_number_is_equal_Buzz" />
+        <item itemvalue="JUnit.FizzBuzzTest.when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_3_reminder_0_number_is_equal_Fizz" />
+        <item itemvalue="JUnit.FizzBuzzTest.testThatWhenAnIntegerIsEnterFunctionReturnFromNumberOneToTeElement" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +166,11 @@
       <workItem from="1700730690813" duration="5112000" />
       <workItem from="1700770210591" duration="8806000" />
       <workItem from="1700862066674" duration="142000" />
-      <workItem from="1700939975230" duration="5985000" />
+      <workItem from="1700939975230" duration="6385000" />
+      <workItem from="1700975374109" duration="33000" />
+      <workItem from="1700987714361" duration="1983000" />
+      <workItem from="1701258125614" duration="771000" />
+      <workItem from="1701658621174" duration="2189000" />
     </task>
     <servers />
   </component>
@@ -218,6 +224,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/StudentAttendanceRecordTest.java</url>
+          <line>27</line>
+          <properties class="StudentAttendanceRecordTest" method="whenStudentIsAbsentForMoreTwoDayTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

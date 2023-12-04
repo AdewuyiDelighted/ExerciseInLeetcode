@@ -26,7 +26,8 @@ class StudentAttendanceRecordTest {
         assertFalse(awardGiven);
     }
     @Test public void whenStudentIsAbsentForMoreTwoDayTest(){
-        String attendance = "papaap";
+        String attendance = "papaa" +
+                "p";
         boolean awardGiven = StudentAttendanceRecord.isAwardGranted(attendance);
         assertFalse(awardGiven);
     }
