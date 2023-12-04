@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BasicCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/BasicCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivisionWithoutModAndDivide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DivisionWithoutModAndDivideTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/StudentAttendanceRecordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/StudentAttendanceRecordTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +67,31 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz">
-    <configuration name="FizzBuzzTest.testThatWhenAnIntegerIsEnterFunctionReturnFromNumberOneToTeElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DivisionWithoutModAndDivideTest">
+    <configuration name="DivisionWithoutModAndDivideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="METHOD_NAME" value="testThatWhenAnIntegerIsEnterFunctionReturnFromNumberOneToTeElement" />
+      <option name="MAIN_CLASS_NAME" value="DivisionWithoutModAndDivideTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisionWithoutModAndDivideTest.testThatFunctionCanDivideWithUsingModSign" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DivisionWithoutModAndDivideTest" />
+      <option name="METHOD_NAME" value="testThatFunctionCanDivideWithUsingModSign" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisionWithoutModAndDivideTest.testThatFunctionCanDivideWithUsingModSignWhenDivisorIsNegativeValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DivisionWithoutModAndDivideTest" />
+      <option name="METHOD_NAME" value="testThatFunctionCanDivideWithUsingModSignWhenDivisorIsNegativeValue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,26 +102,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
       <option name="METHOD_NAME" value="testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzzTest.when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_3_reminder_0_number_is_equal_Fizz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="METHOD_NAME" value="when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_3_reminder_0_number_is_equal_Fizz" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzzTest.when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_5_reminder_0_number_is_equal_Buzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="METHOD_NAME" value="when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_5_reminder_0_number_is_equal_Buzz" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DivisionWithoutModAndDivideTest" />
+        <item itemvalue="JUnit.DivisionWithoutModAndDivideTest.testThatFunctionCanDivideWithUsingModSignWhenDivisorIsNegativeValue" />
+        <item itemvalue="JUnit.DivisionWithoutModAndDivideTest.testThatFunctionCanDivideWithUsingModSign" />
         <item itemvalue="JUnit.FizzBuzzTest.testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.when_i_input_number_number_divided_by_three_would_return_fizz_while__number_divided_by_five_would_return_buzz_test" />
-        <item itemvalue="JUnit.FizzBuzzTest.when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_5_reminder_0_number_is_equal_Buzz" />
-        <item itemvalue="JUnit.FizzBuzzTest.when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_3_reminder_0_number_is_equal_Fizz" />
-        <item itemvalue="JUnit.FizzBuzzTest.testThatWhenAnIntegerIsEnterFunctionReturnFromNumberOneToTeElement" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +166,10 @@
       <workItem from="1700975374109" duration="33000" />
       <workItem from="1700987714361" duration="1983000" />
       <workItem from="1701258125614" duration="771000" />
-      <workItem from="1701658621174" duration="2189000" />
+      <workItem from="1701658621174" duration="2707000" />
+      <workItem from="1701688623553" duration="558000" />
+      <workItem from="1701690909166" duration="629000" />
+      <workItem from="1701708849079" duration="3596000" />
     </task>
     <servers />
   </component>
@@ -233,6 +232,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/DivisionWithoutModAndDivideTest.java</url>
+          <line>13</line>
+          <properties class="DivisionWithoutModAndDivideTest" method="testThatFunctionCanDivideWithUsingModSignWhenDivisorIsNegativeValue">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
