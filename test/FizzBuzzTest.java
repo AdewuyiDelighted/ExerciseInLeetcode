@@ -10,7 +10,6 @@ class FizzBuzzTest {
     public void when_an_input_is_entered_if_number_from_one_to_the_input_divided_by_3_reminder_0_number_is_equal_Fizz() {
         int number = 3;
         ArrayList<String> words = new ArrayList<>(Arrays.asList("1", "2", "Fizz"));
-
         assertEquals(words, FizzBuzz.fizzbuzz(number));
 
     }

@@ -3,7 +3,7 @@ public class DivisionWithoutModAndDivide {
     public static int divideTwoIntegers(int dividend, int divisor) {
         int count = 0;
         if (divisor > 0) {
-            count = greaterThanDivisorZero(dividend,divisor);
+            count = greaterThanDivisorZero(dividend, divisor);
         } else if (divisor < 0) {
             count = lessThanZeroDivisor(dividend, divisor);
         }
@@ -11,9 +11,7 @@ public class DivisionWithoutModAndDivide {
     }
 
 
-
-
-    public static int greaterThanDivisorZero(int dividend, int divisor) {
+    private static int greaterThanDivisorZero(int dividend, int divisor) {
         int count = 0;
         while (dividend > divisor) {
             dividend -= divisor;
@@ -23,7 +21,7 @@ public class DivisionWithoutModAndDivide {
 
     }
 
-    public static int lessThanZeroDivisor(int dividend, int divisor) {
+    private static int lessThanZeroDivisor(int dividend, int divisor) {
         int count = 0;
         int negative = -1;
         while (dividend != 1) {

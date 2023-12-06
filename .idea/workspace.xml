@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DivisionWithoutModAndDivide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DivisionWithoutModAndDivideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SummaryRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SummaryRangeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivisionWithoutModAndDivide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivisionWithoutModAndDivide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/FizzBuzzTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +171,11 @@
       <workItem from="1701658621174" duration="2707000" />
       <workItem from="1701688623553" duration="558000" />
       <workItem from="1701690909166" duration="629000" />
-      <workItem from="1701708849079" duration="3596000" />
+      <workItem from="1701708849079" duration="6641000" />
+      <workItem from="1701777206187" duration="163000" />
+      <workItem from="1701790914236" duration="2480000" />
+      <workItem from="1701834879104" duration="285000" />
+      <workItem from="1701896612042" duration="1418000" />
     </task>
     <servers />
   </component>
@@ -216,15 +222,6 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/DetectCapital.java</url>
-          <line>2</line>
-          <properties class="DetectCapital" method="detectCapital">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/test/StudentAttendanceRecordTest.java</url>
           <line>27</line>
           <properties class="StudentAttendanceRecordTest" method="whenStudentIsAbsentForMoreTwoDayTest">
@@ -232,15 +229,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/DivisionWithoutModAndDivideTest.java</url>
-          <line>13</line>
-          <properties class="DivisionWithoutModAndDivideTest" method="testThatFunctionCanDivideWithUsingModSignWhenDivisorIsNegativeValue">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
