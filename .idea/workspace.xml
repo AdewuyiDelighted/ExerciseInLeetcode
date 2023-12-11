@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SummaryRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SummaryRangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/LeetCodeBankTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivisionWithoutModAndDivide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivisionWithoutModAndDivide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SummaryRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SummaryRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SummaryRangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SummaryRangeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,51 +70,48 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DivisionWithoutModAndDivideTest">
-    <configuration name="DivisionWithoutModAndDivideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LeetCodeBankTest">
+    <configuration name="SummaryRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SummaryRange" />
+      <module name="leetCodeExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicCalculatorTest.testThatFunctionTakesInStringMathematicalExpressionAndReturnAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DivisionWithoutModAndDivideTest" />
+      <option name="MAIN_CLASS_NAME" value="BasicCalculatorTest" />
+      <option name="METHOD_NAME" value="testThatFunctionTakesInStringMathematicalExpressionAndReturnAnswer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeBankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisionWithoutModAndDivideTest.testThatFunctionCanDivideWithUsingModSign" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor10Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DivisionWithoutModAndDivideTest" />
-      <option name="METHOD_NAME" value="testThatFunctionCanDivideWithUsingModSign" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
+      <option name="METHOD_NAME" value="testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor10Days" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisionWithoutModAndDivideTest.testThatFunctionCanDivideWithUsingModSignWhenDivisorIsNegativeValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DivisionWithoutModAndDivideTest" />
-      <option name="METHOD_NAME" value="testThatFunctionCanDivideWithUsingModSignWhenDivisorIsNegativeValue" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzzTest.testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="METHOD_NAME" value="testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzzTest.when_i_input_number_number_divided_by_three_would_return_fizz_while__number_divided_by_five_would_return_buzz_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FizzBuzzTest" />
-      <option name="METHOD_NAME" value="when_i_input_number_number_divided_by_three_would_return_fizz_while__number_divided_by_five_would_return_buzz_test" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
+      <option name="METHOD_NAME" value="testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DivisionWithoutModAndDivideTest" />
-        <item itemvalue="JUnit.DivisionWithoutModAndDivideTest.testThatFunctionCanDivideWithUsingModSignWhenDivisorIsNegativeValue" />
-        <item itemvalue="JUnit.DivisionWithoutModAndDivideTest.testThatFunctionCanDivideWithUsingModSign" />
-        <item itemvalue="JUnit.FizzBuzzTest.testThat_when_number_divided_by_3_and_5_reminder_0_would_return_fizzbuzz" />
-        <item itemvalue="JUnit.FizzBuzzTest.when_i_input_number_number_divided_by_three_would_return_fizz_while__number_divided_by_five_would_return_buzz_test" />
+        <item itemvalue="JUnit.LeetCodeBankTest" />
+        <item itemvalue="JUnit.LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor10Days" />
+        <item itemvalue="JUnit.LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" />
+        <item itemvalue="JUnit.BasicCalculatorTest.testThatFunctionTakesInStringMathematicalExpressionAndReturnAnswer" />
+        <item itemvalue="Application.SummaryRange" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +174,10 @@
       <workItem from="1701790914236" duration="2480000" />
       <workItem from="1701834879104" duration="285000" />
       <workItem from="1701896612042" duration="1418000" />
+      <workItem from="1701898133044" duration="149000" />
+      <workItem from="1701919637043" duration="52000" />
+      <workItem from="1701945843256" duration="7761000" />
+      <workItem from="1702222178797" duration="6221000" />
     </task>
     <servers />
   </component>
@@ -229,6 +231,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/LeetCodeBankTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
