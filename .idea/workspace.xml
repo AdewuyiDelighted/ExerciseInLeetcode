@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LeetCodeBankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekForGeeks/KeyPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekForGeeks/WaveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/geekForGeeks/KeyPairTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/geekForGeeks/WaveArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SummaryRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SummaryRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SummaryRangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SummaryRangeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,51 +66,85 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="geekForGeeks" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LeetCodeBankTest">
-    <configuration name="SummaryRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SummaryRange" />
+  <component name="RunManager" selected="JUnit.KeyPairTest.functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound">
+    <configuration name="KeyPairTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicCalculatorTest.testThatFunctionTakesInStringMathematicalExpressionAndReturnAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BasicCalculatorTest" />
-      <option name="METHOD_NAME" value="testThatFunctionTakesInStringMathematicalExpressionAndReturnAnswer" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCodeBankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekForGeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geekForGeeks" />
+      <option name="MAIN_CLASS_NAME" value="geekForGeeks.KeyPairTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor10Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KeyPairTest.functionFindTheTwoElementThatCanSumTarget" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
-      <option name="METHOD_NAME" value="testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor10Days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekForGeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geekForGeeks" />
+      <option name="MAIN_CLASS_NAME" value="geekForGeeks.KeyPairTest" />
+      <option name="METHOD_NAME" value="functionFindTheTwoElementThatCanSumTarget" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KeyPairTest.functionFindTheTwoElementThatCanSumTargetWhenElementAreInAscendingOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
-      <option name="METHOD_NAME" value="testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekForGeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geekForGeeks" />
+      <option name="MAIN_CLASS_NAME" value="geekForGeeks.KeyPairTest" />
+      <option name="METHOD_NAME" value="functionFindTheTwoElementThatCanSumTargetWhenElementAreInAscendingOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyPairTest.functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekForGeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geekForGeeks" />
+      <option name="MAIN_CLASS_NAME" value="geekForGeeks.KeyPairTest" />
+      <option name="METHOD_NAME" value="functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaveArrayTest.testThatArrayAreArrangeInWaveSequenceWhenTheNumberArentInOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geekForGeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geekForGeeks" />
+      <option name="MAIN_CLASS_NAME" value="geekForGeeks.WaveArrayTest" />
+      <option name="METHOD_NAME" value="testThatArrayAreArrangeInWaveSequenceWhenTheNumberArentInOrder" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LeetCodeBankTest" />
-        <item itemvalue="JUnit.LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor10Days" />
-        <item itemvalue="JUnit.LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" />
-        <item itemvalue="JUnit.BasicCalculatorTest.testThatFunctionTakesInStringMathematicalExpressionAndReturnAnswer" />
-        <item itemvalue="Application.SummaryRange" />
+        <item itemvalue="JUnit.KeyPairTest.functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound" />
+        <item itemvalue="JUnit.KeyPairTest.functionFindTheTwoElementThatCanSumTargetWhenElementAreInAscendingOrder" />
+        <item itemvalue="JUnit.KeyPairTest" />
+        <item itemvalue="JUnit.KeyPairTest.functionFindTheTwoElementThatCanSumTarget" />
+        <item itemvalue="JUnit.WaveArrayTest.testThatArrayAreArrangeInWaveSequenceWhenTheNumberArentInOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +210,8 @@
       <workItem from="1701898133044" duration="149000" />
       <workItem from="1701919637043" duration="52000" />
       <workItem from="1701945843256" duration="7761000" />
-      <workItem from="1702222178797" duration="6221000" />
+      <workItem from="1702222178797" duration="8051000" />
+      <workItem from="1702365462852" duration="2863000" />
     </task>
     <servers />
   </component>
@@ -231,6 +265,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LeetCodeBank.java</url>
+          <line>1</line>
+          <properties class="LeetCodeBank" method="calculateAmountSavedIn">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/geekForGeeks/WaveArrayTest.java</url>
+          <line>8</line>
+          <properties class="geekForGeeks.WaveArrayTest" method="testThatArrayAreArrangeInWaveSequence">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/geekForGeeks/WaveArray.java</url>
+          <line>4</line>
+          <properties class="geekForGeeks.WaveArray" method="waveArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/geekForGeeks/KeyPair.java</url>
+          <line>3</line>
+          <properties class="geekForGeeks.KeyPair" method="keyPair">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/LeetCodeBankTest.java</url>
