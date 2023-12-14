@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/geekForGeeks/KeyPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/geekForGeeks/WaveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/geekForGeeks/KeyPairTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/geekForGeeks/WaveArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PerfectNumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geekForGeeks/KeyPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geekForGeeks/KeyPair.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,58 +65,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="geekForGeeks" />
       <recent name="" />
+      <recent name="geekForGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.KeyPairTest.functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound">
-    <configuration name="KeyPairTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geekForGeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geekForGeeks" />
-      <option name="MAIN_CLASS_NAME" value="geekForGeeks.KeyPairTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KeyPairTest.functionFindTheTwoElementThatCanSumTarget" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geekForGeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geekForGeeks" />
-      <option name="MAIN_CLASS_NAME" value="geekForGeeks.KeyPairTest" />
-      <option name="METHOD_NAME" value="functionFindTheTwoElementThatCanSumTarget" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KeyPairTest.functionFindTheTwoElementThatCanSumTargetWhenElementAreInAscendingOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geekForGeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geekForGeeks" />
-      <option name="MAIN_CLASS_NAME" value="geekForGeeks.KeyPairTest" />
-      <option name="METHOD_NAME" value="functionFindTheTwoElementThatCanSumTargetWhenElementAreInAscendingOrder" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.PerfectNumberTest">
     <configuration name="KeyPairTest.functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
@@ -134,17 +86,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaveArrayTest.testThatArrayAreArrangeInWaveSequenceWhenTheNumberArentInOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PerfectNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geekForGeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geekForGeeks" />
-      <option name="MAIN_CLASS_NAME" value="geekForGeeks.WaveArrayTest" />
-      <option name="METHOD_NAME" value="testThatArrayAreArrangeInWaveSequenceWhenTheNumberArentInOrder" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PerfectNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumberTest.testWhenTargetIsNegativeValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PerfectNumberTest" />
+      <option name="METHOD_NAME" value="testWhenTargetIsNegativeValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumberTest.testWhenTheDivisorsOfNumberIfAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PerfectNumberTest" />
+      <option name="METHOD_NAME" value="testWhenTheDivisorsOfNumberIfAdded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumberTest.testWhenTheDivisorsOfNumberIfAddedI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PerfectNumberTest" />
+      <option name="METHOD_NAME" value="testWhenTheDivisorsOfNumberIfAddedI" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PerfectNumberTest" />
+        <item itemvalue="JUnit.PerfectNumberTest.testWhenTargetIsNegativeValue" />
+        <item itemvalue="JUnit.PerfectNumberTest.testWhenTheDivisorsOfNumberIfAddedI" />
+        <item itemvalue="JUnit.PerfectNumberTest.testWhenTheDivisorsOfNumberIfAdded" />
         <item itemvalue="JUnit.KeyPairTest.functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound" />
-        <item itemvalue="JUnit.KeyPairTest.functionFindTheTwoElementThatCanSumTargetWhenElementAreInAscendingOrder" />
-        <item itemvalue="JUnit.KeyPairTest" />
-        <item itemvalue="JUnit.KeyPairTest.functionFindTheTwoElementThatCanSumTarget" />
-        <item itemvalue="JUnit.WaveArrayTest.testThatArrayAreArrangeInWaveSequenceWhenTheNumberArentInOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +186,8 @@
       <workItem from="1701919637043" duration="52000" />
       <workItem from="1701945843256" duration="7761000" />
       <workItem from="1702222178797" duration="8051000" />
-      <workItem from="1702365462852" duration="2863000" />
+      <workItem from="1702365462852" duration="5778000" />
+      <workItem from="1702523472784" duration="802000" />
     </task>
     <servers />
   </component>
@@ -267,15 +243,6 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/LeetCodeBank.java</url>
-          <line>1</line>
-          <properties class="LeetCodeBank" method="calculateAmountSavedIn">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/test/geekForGeeks/WaveArrayTest.java</url>
           <line>8</line>
           <properties class="geekForGeeks.WaveArrayTest" method="testThatArrayAreArrangeInWaveSequence">
@@ -301,6 +268,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PerfectNumber.java</url>
+          <line>2</line>
+          <properties class="PerfectNumber" method="isPerfectNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/LeetCodeBankTest.java</url>
