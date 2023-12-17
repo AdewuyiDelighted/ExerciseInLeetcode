@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/PerfectNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindWordsContainingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/FindWordsContainingCharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SingleNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ValidSudokuTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geekForGeeks/KeyPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geekForGeeks/KeyPair.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,18 +72,41 @@
       <recent name="geekForGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PerfectNumberTest">
-    <configuration name="KeyPairTest.functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FindWordsContainingCharacterTest">
+    <configuration name="FindWordsContainingCharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geekForGeeks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="geekForGeeks" />
-      <option name="MAIN_CLASS_NAME" value="geekForGeeks.KeyPairTest" />
-      <option name="METHOD_NAME" value="functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindWordsContainingCharacterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindWordsContainingCharacterTest.givenAnArrayOfStringReturnTheIndexThatHasTheTargetChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindWordsContainingCharacterTest" />
+      <option name="METHOD_NAME" value="givenAnArrayOfStringReturnTheIndexThatHasTheTargetChar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindWordsContainingCharacterTest.givenAnArrayOfStringReturnTheIndexThatHasTheTargetCharWhenThereIsElementThatDoesNotHaveTarget" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindWordsContainingCharacterTest" />
+      <option name="METHOD_NAME" value="givenAnArrayOfStringReturnTheIndexThatHasTheTargetCharWhenThereIsElementThatDoesNotHaveTarget" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindWordsContainingCharacterTest.testWhenNoElementHasTheTargetInTheArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindWordsContainingCharacterTest" />
+      <option name="METHOD_NAME" value="testWhenNoElementHasTheTargetInTheArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,43 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumberTest.testWhenTargetIsNegativeValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PerfectNumberTest" />
-      <option name="METHOD_NAME" value="testWhenTargetIsNegativeValue" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectNumberTest.testWhenTheDivisorsOfNumberIfAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PerfectNumberTest" />
-      <option name="METHOD_NAME" value="testWhenTheDivisorsOfNumberIfAdded" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectNumberTest.testWhenTheDivisorsOfNumberIfAddedI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PerfectNumberTest" />
-      <option name="METHOD_NAME" value="testWhenTheDivisorsOfNumberIfAddedI" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FindWordsContainingCharacterTest" />
+        <item itemvalue="JUnit.FindWordsContainingCharacterTest.testWhenNoElementHasTheTargetInTheArray" />
+        <item itemvalue="JUnit.FindWordsContainingCharacterTest.givenAnArrayOfStringReturnTheIndexThatHasTheTargetCharWhenThereIsElementThatDoesNotHaveTarget" />
+        <item itemvalue="JUnit.FindWordsContainingCharacterTest.givenAnArrayOfStringReturnTheIndexThatHasTheTargetChar" />
         <item itemvalue="JUnit.PerfectNumberTest" />
-        <item itemvalue="JUnit.PerfectNumberTest.testWhenTargetIsNegativeValue" />
-        <item itemvalue="JUnit.PerfectNumberTest.testWhenTheDivisorsOfNumberIfAddedI" />
-        <item itemvalue="JUnit.PerfectNumberTest.testWhenTheDivisorsOfNumberIfAdded" />
-        <item itemvalue="JUnit.KeyPairTest.functionReturnFalseWhenTheTwoElementThatCanSumTargetAreNotFound" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +184,9 @@
       <workItem from="1702222178797" duration="8051000" />
       <workItem from="1702365462852" duration="5778000" />
       <workItem from="1702523472784" duration="802000" />
+      <workItem from="1702576165438" duration="1232000" />
+      <workItem from="1702603800295" duration="2019000" />
+      <workItem from="1702799548229" duration="6514000" />
     </task>
     <servers />
   </component>
@@ -243,15 +242,6 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/geekForGeeks/WaveArrayTest.java</url>
-          <line>8</line>
-          <properties class="geekForGeeks.WaveArrayTest" method="testThatArrayAreArrangeInWaveSequence">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/geekForGeeks/WaveArray.java</url>
           <line>4</line>
           <properties class="geekForGeeks.WaveArray" method="waveArray">
@@ -278,10 +268,24 @@
           </properties>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>
+          <line>5</line>
+          <properties class="FindWordsContainingCharacter" method="findWord">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/LeetCodeBankTest.java</url>
           <line>12</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
