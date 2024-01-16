@@ -1,18 +1,20 @@
 public class LeetCodeBank {
     public static int calculateAmountSavedIn(int days) {
         int daysCounter = 0;
+        int sevenDays = 7;
         int amountSaved = 0;
-        int dailySavings = 1;
+        int dayOneWeekSavings = 1;
+        int dailySavings = dayOneWeekSavings;
 
         while (daysCounter < days) {
             daysCounter++;
             amountSaved += dailySavings;
             dailySavings++;
 
-            if(daysCounter == 7) {
-                dailySavings = 0;
-
-                daysCounter = 0;
+            if (daysCounter == sevenDays) {
+                dayOneWeekSavings++;
+                dailySavings = dayOneWeekSavings;
+                sevenDays *= 2;
             }
         }
         return amountSaved;

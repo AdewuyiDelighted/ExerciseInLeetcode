@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindWordsContainingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidSudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/FindWordsContainingCharacterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SingleNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ValidSudokuTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LeetCodeBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LeetCodeBankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ValidSudokuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ValidSudokuTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,62 +70,60 @@
       <recent name="geekForGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FindWordsContainingCharacterTest">
-    <configuration name="FindWordsContainingCharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ValidSudokuTest.testValidSudokuBoard">
+    <configuration name="ValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidSudoku" />
+      <module name="leetCodeExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCodeBankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindWordsContainingCharacterTest" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindWordsContainingCharacterTest.givenAnArrayOfStringReturnTheIndexThatHasTheTargetChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor20Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindWordsContainingCharacterTest" />
-      <option name="METHOD_NAME" value="givenAnArrayOfStringReturnTheIndexThatHasTheTargetChar" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
+      <option name="METHOD_NAME" value="testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor20Days" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindWordsContainingCharacterTest.givenAnArrayOfStringReturnTheIndexThatHasTheTargetCharWhenThereIsElementThatDoesNotHaveTarget" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindWordsContainingCharacterTest" />
-      <option name="METHOD_NAME" value="givenAnArrayOfStringReturnTheIndexThatHasTheTargetCharWhenThereIsElementThatDoesNotHaveTarget" />
+      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
+      <option name="METHOD_NAME" value="testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindWordsContainingCharacterTest.testWhenNoElementHasTheTargetInTheArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidSudokuTest.testValidSudokuBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindWordsContainingCharacterTest" />
-      <option name="METHOD_NAME" value="testWhenNoElementHasTheTargetInTheArray" />
+      <option name="MAIN_CLASS_NAME" value="ValidSudokuTest" />
+      <option name="METHOD_NAME" value="testValidSudokuBoard" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PerfectNumberTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FindWordsContainingCharacterTest" />
-        <item itemvalue="JUnit.FindWordsContainingCharacterTest.testWhenNoElementHasTheTargetInTheArray" />
-        <item itemvalue="JUnit.FindWordsContainingCharacterTest.givenAnArrayOfStringReturnTheIndexThatHasTheTargetCharWhenThereIsElementThatDoesNotHaveTarget" />
-        <item itemvalue="JUnit.FindWordsContainingCharacterTest.givenAnArrayOfStringReturnTheIndexThatHasTheTargetChar" />
-        <item itemvalue="JUnit.PerfectNumberTest" />
+        <item itemvalue="JUnit.ValidSudokuTest.testValidSudokuBoard" />
+        <item itemvalue="JUnit.LeetCodeBankTest" />
+        <item itemvalue="JUnit.LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" />
+        <item itemvalue="Application.ValidSudoku" />
+        <item itemvalue="JUnit.LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor20Days" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +182,15 @@
       <workItem from="1702523472784" duration="802000" />
       <workItem from="1702576165438" duration="1232000" />
       <workItem from="1702603800295" duration="2019000" />
-      <workItem from="1702799548229" duration="6514000" />
+      <workItem from="1702799548229" duration="12023000" />
+      <workItem from="1702922054782" duration="596000" />
+      <workItem from="1703272615924" duration="1611000" />
+      <workItem from="1703413223168" duration="2733000" />
+      <workItem from="1703430243315" duration="2217000" />
+      <workItem from="1703498246089" duration="597000" />
+      <workItem from="1703542654019" duration="590000" />
+      <workItem from="1703596528816" duration="597000" />
+      <workItem from="1703682370174" duration="170000" />
     </task>
     <servers />
   </component>
@@ -278,14 +282,14 @@
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/LeetCodeBankTest.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>
           <line>6</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/ValidSudokuTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
