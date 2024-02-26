@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeightChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/AnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/CombinationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HeightCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/WordBreakTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/LeetCodeBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/LeetCodeBankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ValidSudokuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ValidSudokuTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,48 +73,45 @@
       <recent name="geekForGeeks" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ValidSudokuTest.testValidSudokuBoard">
-    <configuration name="ValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidSudoku" />
+  <component name="RunManager" selected="JUnit.AnagramTest">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagram" />
       <module name="leetCodeExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCodeBankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeightChecker" />
+      <module name="leetCodeExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
+      <option name="MAIN_CLASS_NAME" value="AnagramTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor20Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AnagramTest.testThatFunctionReturnsTrueAnOutputIsAnagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
-      <option name="METHOD_NAME" value="testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor20Days" />
+      <option name="MAIN_CLASS_NAME" value="AnagramTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnsTrueAnOutputIsAnagram" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AnagramTest.testThatFunctionReturnsTrueAnOutputIsAnagramWhenThreeWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LeetCodeBankTest" />
-      <option name="METHOD_NAME" value="testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidSudokuTest.testValidSudokuBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ValidSudokuTest" />
-      <option name="METHOD_NAME" value="testValidSudokuBoard" />
+      <option name="MAIN_CLASS_NAME" value="AnagramTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnsTrueAnOutputIsAnagramWhenThreeWord" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ValidSudokuTest.testValidSudokuBoard" />
-        <item itemvalue="JUnit.LeetCodeBankTest" />
-        <item itemvalue="JUnit.LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor4Days" />
-        <item itemvalue="Application.ValidSudoku" />
-        <item itemvalue="JUnit.LeetCodeBankTest.testThatTheMoneyOfMoneyHercyHaveAfterSavingInLeetCodeFor20Days" />
+        <item itemvalue="JUnit.AnagramTest" />
+        <item itemvalue="JUnit.AnagramTest.testThatFunctionReturnsTrueAnOutputIsAnagramWhenThreeWord" />
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="JUnit.AnagramTest.testThatFunctionReturnsTrueAnOutputIsAnagram" />
+        <item itemvalue="Application.HeightChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +191,15 @@
       <workItem from="1703542654019" duration="590000" />
       <workItem from="1703596528816" duration="597000" />
       <workItem from="1703682370174" duration="170000" />
+      <workItem from="1705373361923" duration="4497000" />
+      <workItem from="1705483015308" duration="41000" />
+      <workItem from="1706143897211" duration="811000" />
+      <workItem from="1706318449536" duration="2341000" />
+      <workItem from="1706389456662" duration="112000" />
+      <workItem from="1706791605190" duration="333000" />
+      <workItem from="1707650109847" duration="612000" />
+      <workItem from="1707675214631" duration="90000" />
+      <workItem from="1708911010252" duration="6664000" />
     </task>
     <servers />
   </component>
@@ -280,6 +289,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/HeightCheckerTest.java</url>
+          <line>6</line>
+          <properties class="HeightCheckerTest" method="testTheNumberOfHeightThatIsNotInTheirRight">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/HeightChecker.java</url>
+          <line>8</line>
+          <properties class="HeightChecker" method="heightChecker">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>
