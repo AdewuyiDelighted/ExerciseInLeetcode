@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeightChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/AnagramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/CombinationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/HeightCheckerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/WordBreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PhoneNumberLetterCombinationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,46 +67,58 @@
       <recent name="" />
       <recent name="geekForGeeks" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcodeSpecial" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.AnagramTest">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Anagram" />
+  <component name="RunManager" selected="JUnit.PhoneNumberLetterCombinationTest">
+    <configuration name="PhoneNumberLetterCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.PhoneNumberLetterCombination" />
       <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HeightChecker" />
-      <module name="leetCodeExercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneNumberLetterCombinationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AnagramTest" />
+      <option name="MAIN_CLASS_NAME" value="PhoneNumberLetterCombinationTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnagramTest.testThatFunctionReturnsTrueAnOutputIsAnagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneNumberLetterCombinationTest.testThatFunctionWhenTheGiveNumberIsOfLengthIsGreaterThatFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AnagramTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnsTrueAnOutputIsAnagram" />
+      <option name="MAIN_CLASS_NAME" value="PhoneNumberLetterCombinationTest" />
+      <option name="METHOD_NAME" value="testThatFunctionWhenTheGiveNumberIsOfLengthIsGreaterThatFive" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnagramTest.testThatFunctionReturnsTrueAnOutputIsAnagramWhenThreeWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneNumberLetterCombinationTest.testThatFunctionWhenTheGiveNumberIsOfLengthOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AnagramTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnsTrueAnOutputIsAnagramWhenThreeWord" />
+      <option name="MAIN_CLASS_NAME" value="PhoneNumberLetterCombinationTest" />
+      <option name="METHOD_NAME" value="testThatFunctionWhenTheGiveNumberIsOfLengthOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneNumberLetterCombinationTest.testThatFunctionWhenTheGiveNumberIsOfLengthZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneNumberLetterCombinationTest" />
+      <option name="METHOD_NAME" value="testThatFunctionWhenTheGiveNumberIsOfLengthZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AnagramTest" />
-        <item itemvalue="JUnit.AnagramTest.testThatFunctionReturnsTrueAnOutputIsAnagramWhenThreeWord" />
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="JUnit.AnagramTest.testThatFunctionReturnsTrueAnOutputIsAnagram" />
-        <item itemvalue="Application.HeightChecker" />
+        <item itemvalue="JUnit.PhoneNumberLetterCombinationTest" />
+        <item itemvalue="JUnit.PhoneNumberLetterCombinationTest.testThatFunctionWhenTheGiveNumberIsOfLengthIsGreaterThatFive" />
+        <item itemvalue="Application.PhoneNumberLetterCombination" />
+        <item itemvalue="JUnit.PhoneNumberLetterCombinationTest.testThatFunctionWhenTheGiveNumberIsOfLengthZero" />
+        <item itemvalue="JUnit.PhoneNumberLetterCombinationTest.testThatFunctionWhenTheGiveNumberIsOfLengthOne" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +206,9 @@
       <workItem from="1706791605190" duration="333000" />
       <workItem from="1707650109847" duration="612000" />
       <workItem from="1707675214631" duration="90000" />
-      <workItem from="1708911010252" duration="6664000" />
+      <workItem from="1708911010252" duration="8656000" />
+      <workItem from="1709645242968" duration="3862000" />
+      <workItem from="1709662338477" duration="5111000" />
     </task>
     <servers />
   </component>
