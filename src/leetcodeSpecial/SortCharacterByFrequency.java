@@ -14,7 +14,8 @@ public class SortCharacterByFrequency {
                     char letter = word.charAt(index);
                     char letter2 = word.charAt(count);
                     word =  word.replace(word.charAt(index),word.charAt(count));
-                    word.at()
+//                    word.at()
+
 
 
                 }

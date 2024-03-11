@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/NumberOfIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/SortCharacterByFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/NumberOfIslandsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/SortCharacterByFrequencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/RemoveNodeFromEndOfTheList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/RemoveNodeFromEndOfTheListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/MaximumProductOfLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/MaximumProductOfLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/leetcodeSpecial/MaximumProductOfLengthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/leetcodeSpecial/MaximumProductOfLengthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/SortCharacterByFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/SortCharacterByFrequency.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,20 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortCharacterByFrequency">
+  <component name="RunManager" selected="JUnit.RemoveNodeFromEndOfTheListTest.testThatFunctionCanRemoveTheNNodeFromListWhenSizeIsTwo">
+    <configuration name="RemoveNodeFromEndOfTheList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RemoveNodeFromEndOfTheList" />
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortCharacterByFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SortCharacterByFrequency" />
       <module name="leetCodeExercise" />
@@ -107,7 +117,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveNodeFromEndOfTheListTest.testThatFunctionCanRemoveTheNNodeFromList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -116,29 +126,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SingleNumberTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleNumberTest.testThatFunctionReturnsTheTwoDisctintNumberWhenThereAreOnlyTwoElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SingleNumberTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnsTheTwoDisctintNumberWhenThereAreOnlyTwoElement" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RemoveNodeFromEndOfTheListTest" />
+      <option name="METHOD_NAME" value="testThatFunctionCanRemoveTheNNodeFromList" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumberTest.testThatFunctionReturnsTheTwoDisctintNumberWhenThereAreOnlyTwoElementWithOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveNodeFromEndOfTheListTest.testThatFunctionCanRemoveTheNNodeFromListWhenSizeIsTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +142,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SingleNumberTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnsTheTwoDisctintNumberWhenThereAreOnlyTwoElementWithOne" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RemoveNodeFromEndOfTheListTest" />
+      <option name="METHOD_NAME" value="testThatFunctionCanRemoveTheNNodeFromListWhenSizeIsTwo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RemoveNodeFromEndOfTheListTest.testThatFunctionCanRemoveTheNNodeFromListWhenSizeIsTwo" />
+        <item itemvalue="JUnit.RemoveNodeFromEndOfTheListTest.testThatFunctionCanRemoveTheNNodeFromList" />
+        <item itemvalue="Application.RemoveNodeFromEndOfTheList" />
         <item itemvalue="Application.SortCharacterByFrequency" />
         <item itemvalue="JUnit.MaximumProductOfLengthTest.testThatFunctionCanReturnsLengthOfTwoUnlikeWord" />
-        <item itemvalue="JUnit.SingleNumberTest" />
-        <item itemvalue="JUnit.SingleNumberTest.testThatFunctionReturnsTheTwoDisctintNumberWhenThereAreOnlyTwoElementWithOne" />
-        <item itemvalue="JUnit.SingleNumberTest.testThatFunctionReturnsTheTwoDisctintNumberWhenThereAreOnlyTwoElement" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +236,7 @@
       <workItem from="1709662338477" duration="11534000" />
       <workItem from="1709747173318" duration="4956000" />
       <workItem from="1709910399639" duration="3842000" />
-      <workItem from="1709971652286" duration="1677000" />
+      <workItem from="1709971652286" duration="9142000" />
     </task>
     <servers />
   </component>
