@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/RemoveNodeFromEndOfTheList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/RemoveNodeFromEndOfTheListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/SortCharacterByFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/SortCharacterByFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/RemoveNodeFromEndOfTheList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/RemoveNodeFromEndOfTheList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RemoveNodeFromEndOfTheListTest.testThatFunctionCanRemoveTheNNodeFromListWhenSizeIsTwo">
+  <component name="RunManager" selected="Application.RemoveNodeFromEndOfTheList">
     <configuration name="RemoveNodeFromEndOfTheList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RemoveNodeFromEndOfTheList" />
       <module name="leetCodeExercise" />
@@ -151,9 +149,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveNodeFromEndOfTheList" />
         <item itemvalue="JUnit.RemoveNodeFromEndOfTheListTest.testThatFunctionCanRemoveTheNNodeFromListWhenSizeIsTwo" />
         <item itemvalue="JUnit.RemoveNodeFromEndOfTheListTest.testThatFunctionCanRemoveTheNNodeFromList" />
-        <item itemvalue="Application.RemoveNodeFromEndOfTheList" />
         <item itemvalue="Application.SortCharacterByFrequency" />
         <item itemvalue="JUnit.MaximumProductOfLengthTest.testThatFunctionCanReturnsLengthOfTwoUnlikeWord" />
       </list>
@@ -236,7 +234,7 @@
       <workItem from="1709662338477" duration="11534000" />
       <workItem from="1709747173318" duration="4956000" />
       <workItem from="1709910399639" duration="3842000" />
-      <workItem from="1709971652286" duration="9142000" />
+      <workItem from="1709971652286" duration="10133000" />
     </task>
     <servers />
   </component>
