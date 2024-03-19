@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/leetcodeSpecial/SortCharacterByFrequencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/leetcodeSpecial/SortCharacterByFrequencyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortCharacterByFrequencyTest">
+  <component name="RunManager" selected="JUnit.FindPeakElementTest.testThatGetPeakWhenPeakIsAtTheExtremeEnd">
     <configuration name="SortCharacterByFrequencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SortCharacterByFrequencyTest" />
       <module name="leetCodeExercise" />
@@ -117,22 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPeakElementTest.testThatFunctionGetPeakWhenArrayHasOneElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.FindPeakElementTest" />
-      <option name="METHOD_NAME" value="testThatFunctionGetPeakWhenArrayHasOneElement" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FindPeakElementTest.testThatFunctionGetPeakWhenArrayIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
@@ -149,13 +132,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindPeakElementTest.testThatGetPeakWhenPeakIsAtTheExtremeEnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.FindPeakElementTest" />
+      <option name="METHOD_NAME" value="testThatGetPeakWhenPeakIsAtTheExtremeEnd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FindPeakElementTest.testThatGetPeakWhenPeakIsAtTheExtremeEnd" />
         <item itemvalue="Application.SortCharacterByFrequencyTest" />
         <item itemvalue="JUnit.FindPeakElementTest" />
         <item itemvalue="JUnit.FindPeakElementTest.testThatFunctionGetPeakWhenArrayHasMoreElement" />
         <item itemvalue="JUnit.FindPeakElementTest.testThatFunctionGetPeakWhenArrayIsEmpty" />
-        <item itemvalue="JUnit.FindPeakElementTest.testThatFunctionGetPeakWhenArrayHasOneElement" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +239,7 @@
       <workItem from="1710295742052" duration="3071000" />
       <workItem from="1710490189852" duration="660000" />
       <workItem from="1710505593241" duration="3618000" />
-      <workItem from="1710528538699" duration="2279000" />
+      <workItem from="1710528538699" duration="4665000" />
     </task>
     <servers />
   </component>

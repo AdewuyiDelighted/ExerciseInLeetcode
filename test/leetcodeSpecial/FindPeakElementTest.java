@@ -26,6 +26,11 @@ class FindPeakElementTest {
         int output = -1;
         assertEquals(output,FindPeakElement.findPeak(nums));
     }
+    @Test public void testThatGetPeakWhenPeakIsAtTheExtremeEnd(){
+        int[] nums = {1,1,2,3,4};
+        int output = 4;
+        assertEquals(output,FindPeakElement.findPeak(nums));
+    }
 
 
 
