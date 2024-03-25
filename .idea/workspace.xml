@@ -76,7 +76,7 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MergeIntervalsTest.testThatFunctionsCanMergeShorterIntervals">
+  <component name="RunManager" selected="JUnit.MergeIntervalsTest">
     <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MergeIntervals" />
       <module name="leetCodeExercise" />
@@ -90,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPeakElementTest.testThatGetPeakWhenPeakIsAtTheExtremeEnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MergeIntervalsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -99,9 +99,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.FindPeakElementTest" />
-      <option name="METHOD_NAME" value="testThatGetPeakWhenPeakIsAtTheExtremeEnd" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MergeIntervalsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MergeIntervalsTest" />
         <item itemvalue="JUnit.MergeIntervalsTest.testThatFunctionsCanMergeShorterIntervals" />
         <item itemvalue="JUnit.MergeIntervalsTest.testThatFunctionsCanMergeIntervalsWhenMergeIntervalWouldResultToOne" />
         <item itemvalue="JUnit.MergeIntervalsTest.testThatFunctionsCanMergeIntervals" />
         <item itemvalue="Application.MergeIntervals" />
-        <item itemvalue="JUnit.FindPeakElementTest.testThatGetPeakWhenPeakIsAtTheExtremeEnd" />
       </list>
     </recent_temporary>
   </component>

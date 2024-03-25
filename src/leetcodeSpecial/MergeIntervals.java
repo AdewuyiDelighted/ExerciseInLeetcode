@@ -6,17 +6,10 @@ import java.util.Collections;
 import java.util.Stack;
 
 public class MergeIntervals {
-    public static void main(String[] args) {
-//        System.out.println((Arrays.deepToString(mergedIntervals(new int[][]{{6, 8}, {1, 9}, {2, 4}, {4, 7}}))));
-//        System.out.println((Arrays.deepToString(mergedIntervals(new int[][]{{1,3},{2,6},{8,10},{15,18}}))));
-        System.out.println((Arrays.deepToString(mergedIntervals(new int[][]{{1,4},{4,5}}))));
-
-    }
 
 
     public static int[][] mergedIntervals(int[][] intervals) {
-        int[][] sortedInterval = sortInterval(intervals);
-        Stack<int[]> stack = convertToStack(sortedInterval);
+        Stack<int[]> stack = convertToStack(sortInterval(intervals));
 
         for (int index = 0; index < stack.size()-1; index++) {
             if (stack.get(index + 1)[0] >  stack.get(index)[0] && stack.get(index + 1)[0] <= stack.get(index)[1]) {
