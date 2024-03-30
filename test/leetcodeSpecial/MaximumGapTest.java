@@ -23,7 +23,7 @@ class MaximumGapTest {
         assertEquals(output,MaximumGap.getMaxGap(nums));
     }
 
-    @Test public void testThatTheMaximumGapWhenArrayIslonger(){
+    @Test public void testThatTheMaximumGapWhenArrayIsLonger(){
         int [] nums = {1,5,6,3,6,7,19};
         int output = 12;
         assertEquals(output,MaximumGap.getMaxGap(nums));
