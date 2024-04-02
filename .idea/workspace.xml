@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/MaximumGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/MaximumGapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/BullsAndCows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/BullsAndCowsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +76,21 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MaximumGapTest.testThatTheMaximumGapWhenArrayIsLonger">
-    <configuration name="MaximumGapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BullsAndCowsTest">
+    <configuration name="BullsAndCows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BullsAndCows" />
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BullsAndCowsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -86,13 +99,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MaximumGapTest" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BullsAndCowsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumGapTest.testThatTheMaximumGapOfWithAnotherArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BullsAndCowsTest.testTheBullsAndCowsInTheGivenSecretAndGuess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +114,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MaximumGapTest" />
-      <option name="METHOD_NAME" value="testThatTheMaximumGapOfWithAnotherArray" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BullsAndCowsTest" />
+      <option name="METHOD_NAME" value="testTheBullsAndCowsInTheGivenSecretAndGuess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BullsAndCowsTest.testTheBullsAndCowsInTheGivenSecretAndGuessWhenThereIsOnlyOneBullAndOneCow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BullsAndCowsTest" />
+      <option name="METHOD_NAME" value="testTheBullsAndCowsInTheGivenSecretAndGuessWhenThereIsOnlyOneBullAndOneCow" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,45 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumGapTest.testThatTheMaximumGapWhenArrayIslonger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MaximumGapTest" />
-      <option name="METHOD_NAME" value="testThatTheMaximumGapWhenArrayIslonger" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumGapTest.testThatTheMaximumGapWhenTheLengthOfArrayIsBelow2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MaximumGapTest" />
-      <option name="METHOD_NAME" value="testThatTheMaximumGapWhenTheLengthOfArrayIsBelow2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BullsAndCowsTest" />
+        <item itemvalue="JUnit.BullsAndCowsTest.testTheBullsAndCowsInTheGivenSecretAndGuessWhenThereIsOnlyOneBullAndOneCow" />
+        <item itemvalue="Application.BullsAndCows" />
+        <item itemvalue="JUnit.BullsAndCowsTest.testTheBullsAndCowsInTheGivenSecretAndGuess" />
         <item itemvalue="JUnit.MaximumGapTest.testThatTheMaximumGapWhenArrayIsLonger" />
-        <item itemvalue="JUnit.MaximumGapTest" />
-        <item itemvalue="JUnit.MaximumGapTest.testThatTheMaximumGapWhenArrayIslonger" />
-        <item itemvalue="JUnit.MaximumGapTest.testThatTheMaximumGapOfWithAnotherArray" />
-        <item itemvalue="JUnit.MaximumGapTest.testThatTheMaximumGapWhenTheLengthOfArrayIsBelow2" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +247,8 @@
       <workItem from="1710528538699" duration="6473000" />
       <workItem from="1711229145296" duration="18092000" />
       <workItem from="1711312953326" duration="13084000" />
-      <workItem from="1711833142630" duration="1567000" />
+      <workItem from="1711833142630" duration="1991000" />
+      <workItem from="1712073137128" duration="1699000" />
     </task>
     <servers />
   </component>
@@ -358,24 +356,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/leetcodeSpecial/MaximumGapTest.java</url>
-          <line>19</line>
-          <properties class="leetcodeSpecial.MaximumGapTest" method="testThatTheMaximumGapOfWithAnotherArray">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/MaximumGap.java</url>
-          <line>4</line>
-          <properties class="leetcodeSpecial.MaximumGap" method="getMaxGap">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>
