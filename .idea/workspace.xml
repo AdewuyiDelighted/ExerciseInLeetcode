@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/MinimumCommonValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/MinimumCommonValueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/BullsAndCows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/BullsAndCows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/Convert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/MinimumCommonValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/MinimumCommonValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +76,9 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BullsAndCowsTest">
-    <configuration name="BullsAndCows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BullsAndCows" />
+  <component name="RunManager" selected="JUnit.MinimumCommonValueTest.testThatFunctionReturnTheMinimumValueInAGivenTwoArrayAreTheSameLength">
+    <configuration name="MinimumCommonValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MinimumCommonValue" />
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -106,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BullsAndCowsTest.testTheBullsAndCowsInTheGivenSecretAndGuess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinimumCommonValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -115,14 +114,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BullsAndCowsTest" />
-      <option name="METHOD_NAME" value="testTheBullsAndCowsInTheGivenSecretAndGuess" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MinimumCommonValueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumCommonValueTest.testThatFunctionReturnTheMinimumValueInAGivenTwoArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MinimumCommonValueTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnTheMinimumValueInAGivenTwoArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BullsAndCowsTest.testTheBullsAndCowsInTheGivenSecretAndGuessWhenThereIsOnlyOneBullAndOneCow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinimumCommonValueTest.testThatFunctionReturnTheMinimumValueInAGivenTwoArrayAreTheSameLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -131,24 +145,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BullsAndCowsTest" />
-      <option name="METHOD_NAME" value="testTheBullsAndCowsInTheGivenSecretAndGuessWhenThereIsOnlyOneBullAndOneCow" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumGapTest.testThatTheMaximumGapWhenArrayIsLonger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MaximumGapTest" />
-      <option name="METHOD_NAME" value="testThatTheMaximumGapWhenArrayIsLonger" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MinimumCommonValueTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnTheMinimumValueInAGivenTwoArrayAreTheSameLength" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MinimumCommonValueTest.testThatFunctionReturnTheMinimumValueInAGivenTwoArrayAreTheSameLength" />
+        <item itemvalue="JUnit.MinimumCommonValueTest.testThatFunctionReturnTheMinimumValueInAGivenTwoArray" />
+        <item itemvalue="Application.MinimumCommonValue" />
+        <item itemvalue="JUnit.MinimumCommonValueTest" />
         <item itemvalue="JUnit.BullsAndCowsTest" />
-        <item itemvalue="JUnit.BullsAndCowsTest.testTheBullsAndCowsInTheGivenSecretAndGuessWhenThereIsOnlyOneBullAndOneCow" />
-        <item itemvalue="Application.BullsAndCows" />
-        <item itemvalue="JUnit.BullsAndCowsTest.testTheBullsAndCowsInTheGivenSecretAndGuess" />
-        <item itemvalue="JUnit.MaximumGapTest.testThatTheMaximumGapWhenArrayIsLonger" />
       </list>
     </recent_temporary>
   </component>
@@ -253,12 +251,24 @@
       <workItem from="1712276579692" duration="1179000" />
       <workItem from="1712412650240" duration="854000" />
       <workItem from="1714123634584" duration="646000" />
-      <workItem from="1714130328985" duration="791000" />
+      <workItem from="1714130328985" duration="1439000" />
+      <workItem from="1714131861478" duration="2848000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -361,6 +371,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/MinimumCommonValue.java</url>
+          <line>6</line>
+          <properties class="leetcodeSpecial.MinimumCommonValue" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>

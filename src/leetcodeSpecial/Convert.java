@@ -17,6 +17,14 @@ public class Convert {
         }
         return array;
     }
+    public static ArrayList<Integer> convertArrayToAListInt(int[] inputs) {
+        ArrayList<Integer>  convertInput = new ArrayList<>();
+        for (int index = 0; index < inputs.length; index++) {
+            convertInput.add(inputs[index]);
+        }
+        return convertInput;
+    }
+
 
 
 }
