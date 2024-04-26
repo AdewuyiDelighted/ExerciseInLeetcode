@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/BullsAndCows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/BullsAndCowsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/MinimumCommonValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/MinimumCommonValueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/BullsAndCows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/BullsAndCows.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,6 +250,10 @@
       <workItem from="1711312953326" duration="13084000" />
       <workItem from="1711833142630" duration="1991000" />
       <workItem from="1712073137128" duration="1699000" />
+      <workItem from="1712276579692" duration="1179000" />
+      <workItem from="1712412650240" duration="854000" />
+      <workItem from="1714123634584" duration="646000" />
+      <workItem from="1714130328985" duration="791000" />
     </task>
     <servers />
   </component>

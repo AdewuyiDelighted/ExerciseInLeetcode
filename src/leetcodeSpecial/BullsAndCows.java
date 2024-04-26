@@ -1,13 +1,7 @@
 package leetcodeSpecial;
 
-import org.jetbrains.annotations.NotNull;
 
 public class BullsAndCows {
-    public static void main(String[] args) {
-        System.out.println(getHint("1123", "0111"));
-    }
-
-
     public static String getHint(String secret, String guess) {
         int bull = 0;
         int cow = 0;
