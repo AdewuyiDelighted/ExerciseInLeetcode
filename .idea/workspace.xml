@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/BuyTwoChocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/BuyTwoChocolateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/BuyTwoChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/BuyTwoChocolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/leetcodeSpecial/BuyTwoChocolateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/leetcodeSpecial/BuyTwoChocolateTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,20 +76,7 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereisBecauseMoneyIsNotEnough">
-    <configuration name="BuyTwoChocolate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BuyTwoChocolate" />
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereIsBecauseMoneyIsNotEnough">
     <configuration name="BuyTwoChocolateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
@@ -121,7 +108,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuyTwoChocolateTest.testThatUserCanBuyCannotBuyTwoBecauseMoneyIsNotEnoughTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BuyTwoChocolateTest,testThatUserCanBuyOnlyTwoChocolate and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="leetcodeSpecial.BuyTwoChocolateTest,testThatUserCanBuyOnlyTwoChocolate" />
+        <pattern testClass="leetcodeSpecial.BuyTwoChocolateTest,testThatUserCanBuyCannotBuyTwoBecauseMoneyIsNotEnough" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereIsBecauseMoneyIsNotEnough" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -131,7 +129,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BuyTwoChocolateTest" />
-      <option name="METHOD_NAME" value="testThatUserCanBuyCannotBuyTwoBecauseMoneyIsNotEnoughTwo" />
+      <option name="METHOD_NAME" value="testThatUserCanBuyTwoChocolateAndCollectChangeIfThereIsBecauseMoneyIsNotEnough" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereIsBecauseMoneyIsNotEnough" />
+        <item itemvalue="JUnit.BuyTwoChocolateTest" />
+        <item itemvalue="JUnit.BuyTwoChocolateTest,testThatUserCanBuyOnlyTwoChocolate and 1 more" />
         <item itemvalue="JUnit.BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereisBecauseMoneyIsNotEnough" />
         <item itemvalue="JUnit.BuyTwoChocolateTest.testThatUserCanBuyCannotBuyTwoBecauseMoneyIsNotEnough" />
-        <item itemvalue="JUnit.BuyTwoChocolateTest" />
-        <item itemvalue="Application.BuyTwoChocolate" />
-        <item itemvalue="JUnit.BuyTwoChocolateTest.testThatUserCanBuyCannotBuyTwoBecauseMoneyIsNotEnoughTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +252,7 @@
       <workItem from="1714123634584" duration="646000" />
       <workItem from="1714130328985" duration="1439000" />
       <workItem from="1714131861478" duration="4395000" />
-      <workItem from="1714220434925" duration="4224000" />
+      <workItem from="1714220434925" duration="5706000" />
     </task>
     <servers />
   </component>
@@ -373,24 +371,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/BuyTwoChocolate.java</url>
-          <line>5</line>
-          <properties class="leetcodeSpecial.BuyTwoChocolate" method="buyChocolate">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/leetcodeSpecial/BuyTwoChocolateTest.java</url>
-          <line>20</line>
-          <properties class="leetcodeSpecial.BuyTwoChocolateTest" method="testThatUserCanBuyTwoChocolateAndCollectChangeIfThereisBecauseMoneyIsNotEnough">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>

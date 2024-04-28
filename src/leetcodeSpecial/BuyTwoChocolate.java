@@ -1,7 +1,5 @@
 package leetcodeSpecial;
 
-import java.util.Arrays;
-
 public class BuyTwoChocolate {
     public static int buyChocolate(int[] prices, int money) {
        int count = 0;
