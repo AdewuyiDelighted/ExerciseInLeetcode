@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/ConvertArrayInto2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/MiddleOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/ConvertArrayInto2DArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/MiddleOfLinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/BuyTwoChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/BuyTwoChocolate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/leetcodeSpecial/BuyTwoChocolateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/leetcodeSpecial/BuyTwoChocolateTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +78,9 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereIsBecauseMoneyIsNotEnough">
-    <configuration name="BuyTwoChocolateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ConvertArrayInto2DArray">
+    <configuration name="ConvertArrayInto2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.ConvertArrayInto2DArray" />
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -85,14 +88,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BuyTwoChocolateTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuyTwoChocolateTest.testThatUserCanBuyCannotBuyTwoBecauseMoneyIsNotEnough" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MiddleOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MiddleOfLinkedList" />
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -100,21 +101,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BuyTwoChocolateTest" />
-      <option name="METHOD_NAME" value="testThatUserCanBuyCannotBuyTwoBecauseMoneyIsNotEnough" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BuyTwoChocolateTest,testThatUserCanBuyOnlyTwoChocolate and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <option name="TEST_OBJECT" value="pattern" />
-      <patterns>
-        <pattern testClass="leetcodeSpecial.BuyTwoChocolateTest,testThatUserCanBuyOnlyTwoChocolate" />
-        <pattern testClass="leetcodeSpecial.BuyTwoChocolateTest,testThatUserCanBuyCannotBuyTwoBecauseMoneyIsNotEnough" />
-      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,7 +121,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereisBecauseMoneyIsNotEnough" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConvertArrayInto2DArrayTest.testThatFunctionCanConvertArrayIntoTwoDArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +130,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BuyTwoChocolateTest" />
-      <option name="METHOD_NAME" value="testThatUserCanBuyTwoChocolateAndCollectChangeIfThereisBecauseMoneyIsNotEnough" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.ConvertArrayInto2DArrayTest" />
+      <option name="METHOD_NAME" value="testThatFunctionCanConvertArrayIntoTwoDArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiddleOfLinkedListTest.testThatTheMiddleOfALinkedListIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MiddleOfLinkedListTest" />
+      <option name="METHOD_NAME" value="testThatTheMiddleOfALinkedListIsReturned" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertArrayInto2DArray" />
+        <item itemvalue="JUnit.ConvertArrayInto2DArrayTest.testThatFunctionCanConvertArrayIntoTwoDArray" />
+        <item itemvalue="Application.MiddleOfLinkedList" />
+        <item itemvalue="JUnit.MiddleOfLinkedListTest.testThatTheMiddleOfALinkedListIsReturned" />
         <item itemvalue="JUnit.BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereIsBecauseMoneyIsNotEnough" />
-        <item itemvalue="JUnit.BuyTwoChocolateTest" />
-        <item itemvalue="JUnit.BuyTwoChocolateTest,testThatUserCanBuyOnlyTwoChocolate and 1 more" />
-        <item itemvalue="JUnit.BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereisBecauseMoneyIsNotEnough" />
-        <item itemvalue="JUnit.BuyTwoChocolateTest.testThatUserCanBuyCannotBuyTwoBecauseMoneyIsNotEnough" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +255,12 @@
       <workItem from="1714130328985" duration="1439000" />
       <workItem from="1714131861478" duration="4395000" />
       <workItem from="1714220434925" duration="5706000" />
+      <workItem from="1714448428242" duration="584000" />
+      <workItem from="1714467258569" duration="1724000" />
+      <workItem from="1714472885288" duration="713000" />
+      <workItem from="1714512664169" duration="757000" />
+      <workItem from="1714548034721" duration="3884000" />
+      <workItem from="1714554539044" duration="304000" />
     </task>
     <servers />
   </component>
@@ -371,6 +379,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/ConvertArrayInto2DArray.java</url>
+          <line>11</line>
+          <properties class="leetcodeSpecial.ConvertArrayInto2DArray" method="convertArrayToTwoDArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>
