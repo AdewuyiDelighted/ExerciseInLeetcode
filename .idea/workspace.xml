@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/ConvertArrayInto2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/MiddleOfLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/ConvertArrayInto2DArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/MiddleOfLinkedListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/ConvertArrayInto2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/ConvertArrayInto2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/leetcodeSpecial/ConvertArrayInto2DArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/leetcodeSpecial/ConvertArrayInto2DArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertArrayInto2DArray">
+  <component name="RunManager" selected="JUnit.ConvertArrayInto2DArrayTest.testThatFunctionCanConvertArrayIntoTwoDArrayWhenTheGivenArrayIsShort">
     <configuration name="ConvertArrayInto2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.ConvertArrayInto2DArray" />
       <module name="leetCodeExercise" />
@@ -105,7 +103,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereIsBecauseMoneyIsNotEnough" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConvertArrayInto2DArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -114,9 +112,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BuyTwoChocolateTest" />
-      <option name="METHOD_NAME" value="testThatUserCanBuyTwoChocolateAndCollectChangeIfThereIsBecauseMoneyIsNotEnough" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.ConvertArrayInto2DArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,7 +134,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleOfLinkedListTest.testThatTheMiddleOfALinkedListIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConvertArrayInto2DArrayTest.testThatFunctionCanConvertArrayIntoTwoDArrayWhenTheGivenArrayIsShort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +143,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.MiddleOfLinkedListTest" />
-      <option name="METHOD_NAME" value="testThatTheMiddleOfALinkedListIsReturned" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.ConvertArrayInto2DArrayTest" />
+      <option name="METHOD_NAME" value="testThatFunctionCanConvertArrayIntoTwoDArrayWhenTheGivenArrayIsShort" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConvertArrayInto2DArrayTest.testThatFunctionCanConvertArrayIntoTwoDArrayWhenTheGivenArrayIsShort" />
+        <item itemvalue="JUnit.ConvertArrayInto2DArrayTest" />
         <item itemvalue="Application.ConvertArrayInto2DArray" />
         <item itemvalue="JUnit.ConvertArrayInto2DArrayTest.testThatFunctionCanConvertArrayIntoTwoDArray" />
         <item itemvalue="Application.MiddleOfLinkedList" />
-        <item itemvalue="JUnit.MiddleOfLinkedListTest.testThatTheMiddleOfALinkedListIsReturned" />
-        <item itemvalue="JUnit.BuyTwoChocolateTest.testThatUserCanBuyTwoChocolateAndCollectChangeIfThereIsBecauseMoneyIsNotEnough" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +258,8 @@
       <workItem from="1714512664169" duration="757000" />
       <workItem from="1714548034721" duration="3884000" />
       <workItem from="1714554539044" duration="304000" />
+      <workItem from="1714560416990" duration="990000" />
+      <workItem from="1714606281291" duration="2906000" />
     </task>
     <servers />
   </component>
@@ -379,15 +378,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/ConvertArrayInto2DArray.java</url>
-          <line>11</line>
-          <properties class="leetcodeSpecial.ConvertArrayInto2DArray" method="convertArrayToTwoDArray">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>

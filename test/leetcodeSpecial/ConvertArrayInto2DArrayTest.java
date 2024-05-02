@@ -13,4 +13,12 @@ class ConvertArrayInto2DArrayTest {
         assertArrayEquals(output,ConvertArrayInto2DArray.convertArrayToTwoDArray(input));
 
     }
+    @Test
+    public void testThatFunctionCanConvertArrayIntoTwoDArrayWhenTheGivenArrayIsShort(){
+
+        int [] input =  {1,2,3,4};
+        int [][] output =  {{1,2,3,4}};
+        assertArrayEquals(output,ConvertArrayInto2DArray.convertArrayToTwoDArray(input));
+
+    }
 }
