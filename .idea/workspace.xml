@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/FindPlayerWithZeroOrNoLosses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/ReversePrefixOfWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/FindPlayerWithZeroOrNoLossesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/ReversePrefixOfWordTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/FindPlayerWithZeroOrNoLosses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/FindPlayerWithZeroOrNoLosses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/leetcodeSpecial/FindPlayerWithZeroOrNoLossesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/leetcodeSpecial/FindPlayerWithZeroOrNoLossesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindPlayerWithZeroOrNoLosses">
+  <component name="RunManager" selected="JUnit.FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoserWhenThereIsNoOneTimeLoser">
     <configuration name="FindPlayerWithZeroOrNoLosses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.FindPlayerWithZeroOrNoLosses" />
       <module name="leetCodeExercise" />
@@ -105,7 +103,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePrefixOfWordTest.testFunctionReturnsThePrefixOfTheGivenString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -114,14 +112,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.ReversePrefixOfWordTest" />
-      <option name="METHOD_NAME" value="testFunctionReturnsThePrefixOfTheGivenString" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.FindPlayerWithZeroOrNoLossesTest" />
+      <option name="METHOD_NAME" value="testNumberOfWinnersAndOneTimeLoser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePrefixOfWordTest.testFunctionReturnsThePrefixOfTheGivenStringWhenThereAnotherTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoserWhenThereIsNoOneTimeLoser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +128,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.ReversePrefixOfWordTest" />
-      <option name="METHOD_NAME" value="testFunctionReturnsThePrefixOfTheGivenStringWhenThereAnotherTestCase" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.FindPlayerWithZeroOrNoLossesTest" />
+      <option name="METHOD_NAME" value="testNumberOfWinnersAndOneTimeLoserWhenThereIsNoOneTimeLoser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoserWhenThereIsNoOneTimeLoser" />
+        <item itemvalue="JUnit.FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoser" />
         <item itemvalue="Application.FindPlayerWithZeroOrNoLosses" />
         <item itemvalue="Application.ReversePrefixOfWord" />
         <item itemvalue="JUnit.ReversePrefixOfWordTest.testFunctionReturnsThePrefixOfTheGivenStringWhenThereNoChInTheString" />
-        <item itemvalue="JUnit.ReversePrefixOfWordTest.testFunctionReturnsThePrefixOfTheGivenStringWhenThereAnotherTestCase" />
-        <item itemvalue="JUnit.ReversePrefixOfWordTest.testFunctionReturnsThePrefixOfTheGivenString" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +261,8 @@
       <workItem from="1714554539044" duration="304000" />
       <workItem from="1714560416990" duration="990000" />
       <workItem from="1714606281291" duration="3994000" />
-      <workItem from="1714610664499" duration="13573000" />
+      <workItem from="1714610664499" duration="13892000" />
+      <workItem from="1714638150157" duration="1494000" />
     </task>
     <servers />
   </component>
