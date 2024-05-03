@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/SetMatrixZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/SetMatrixZeroTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/FindPlayerWithZeroOrNoLosses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/FindPlayerWithZeroOrNoLosses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/leetcodeSpecial/FindPlayerWithZeroOrNoLossesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/leetcodeSpecial/FindPlayerWithZeroOrNoLossesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +77,9 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoserWhenThereIsNoOneTimeLoser">
-    <configuration name="FindPlayerWithZeroOrNoLosses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.FindPlayerWithZeroOrNoLosses" />
+  <component name="RunManager" selected="JUnit.SetMatrixZeroTest">
+    <configuration name="SetMatrixZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SetMatrixZero" />
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -90,20 +91,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePrefixOfWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.ReversePrefixOfWord" />
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SetMatrixZeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -112,14 +100,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.FindPlayerWithZeroOrNoLossesTest" />
-      <option name="METHOD_NAME" value="testNumberOfWinnersAndOneTimeLoser" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SetMatrixZeroTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SetMatrixZeroTest" />
+      <option name="METHOD_NAME" value="testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoserWhenThereIsNoOneTimeLoser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZeroWhenTheRowLengthIsNotEqualToColumnLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -128,14 +131,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.FindPlayerWithZeroOrNoLossesTest" />
-      <option name="METHOD_NAME" value="testNumberOfWinnersAndOneTimeLoserWhenThereIsNoOneTimeLoser" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SetMatrixZeroTest" />
+      <option name="METHOD_NAME" value="testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZeroWhenTheRowLengthIsNotEqualToColumnLength" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePrefixOfWordTest.testFunctionReturnsThePrefixOfTheGivenStringWhenThereNoChInTheString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZeroWhenThereIsOnlyOneRow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +147,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.ReversePrefixOfWordTest" />
-      <option name="METHOD_NAME" value="testFunctionReturnsThePrefixOfTheGivenStringWhenThereNoChInTheString" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SetMatrixZeroTest" />
+      <option name="METHOD_NAME" value="testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZeroWhenThereIsOnlyOneRow" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoserWhenThereIsNoOneTimeLoser" />
-        <item itemvalue="JUnit.FindPlayerWithZeroOrNoLossesTest.testNumberOfWinnersAndOneTimeLoser" />
-        <item itemvalue="Application.FindPlayerWithZeroOrNoLosses" />
-        <item itemvalue="Application.ReversePrefixOfWord" />
-        <item itemvalue="JUnit.ReversePrefixOfWordTest.testFunctionReturnsThePrefixOfTheGivenStringWhenThereNoChInTheString" />
+        <item itemvalue="JUnit.SetMatrixZeroTest" />
+        <item itemvalue="JUnit.SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZeroWhenThereIsOnlyOneRow" />
+        <item itemvalue="JUnit.SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZeroWhenTheRowLengthIsNotEqualToColumnLength" />
+        <item itemvalue="Application.SetMatrixZero" />
+        <item itemvalue="JUnit.SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZero" />
       </list>
     </recent_temporary>
   </component>
@@ -263,6 +266,9 @@
       <workItem from="1714606281291" duration="3994000" />
       <workItem from="1714610664499" duration="13892000" />
       <workItem from="1714638150157" duration="1494000" />
+      <workItem from="1714651872582" duration="2102000" />
+      <workItem from="1714722925493" duration="91000" />
+      <workItem from="1714723958706" duration="14773000" />
     </task>
     <servers />
   </component>
@@ -381,6 +387,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/SetMatrixZero.java</url>
+          <line>53</line>
+          <properties class="leetcodeSpecial.SetMatrixZero">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/SetMatrixZero.java</url>
+          <line>32</line>
+          <properties class="leetcodeSpecial.SetMatrixZero" method="setRow">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/SetMatrixZero.java</url>
+          <line>42</line>
+          <properties class="leetcodeSpecial.SetMatrixZero" method="setColum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>

@@ -6,10 +6,6 @@ import java.util.List;
 
 
 public class FindPlayerWithZeroOrNoLosses {
-    public static void main(String[] args) {
-        int[][] input = {{1, 3}, {2, 3}, {3, 6}, {5, 6}, {5, 7}, {4, 5}, {4, 8}, {4, 9}, {10, 4}, {10, 9}};
-        System.out.println((findPlayerWithZeroOrNoLosses(input)));
-    }
 
     public static List<List<Integer>> findPlayerWithZeroOrNoLosses(int[][] matches) {
         List<List<Integer>> matchesList =  convertNestedArrayToNestedListInt(matches);
