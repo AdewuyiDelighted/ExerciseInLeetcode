@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/SetMatrixZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/SetMatrixZeroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/FindPlayerWithZeroOrNoLosses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/FindPlayerWithZeroOrNoLosses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/NumberOfSegmentInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/NumberOfSegmentInStringTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SetMatrixZeroTest">
+  <component name="RunManager" selected="JUnit.NumberOfSegmentInStringTest.testThatFunctionReturnsTheSegmentOfString">
     <configuration name="SetMatrixZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SetMatrixZero" />
       <module name="leetCodeExercise" />
@@ -87,6 +85,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfSegmentInStringTest.testThatFunctionReturnsTheSegmentOfString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.NumberOfSegmentInStringTest" />
+      <option name="METHOD_NAME" value="testThatFunctionReturnsTheSegmentOfString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,22 +116,6 @@
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SetMatrixZeroTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SetMatrixZeroTest" />
-      <option name="METHOD_NAME" value="testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZero" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberOfSegmentInStringTest.testThatFunctionReturnsTheSegmentOfString" />
         <item itemvalue="JUnit.SetMatrixZeroTest" />
         <item itemvalue="JUnit.SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZeroWhenThereIsOnlyOneRow" />
         <item itemvalue="JUnit.SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZeroWhenTheRowLengthIsNotEqualToColumnLength" />
         <item itemvalue="Application.SetMatrixZero" />
-        <item itemvalue="JUnit.SetMatrixZeroTest.testThatWhenZeroIsFoundInTheTwoDArrayTheRowsAndColumnsBecomeZero" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +266,7 @@
       <workItem from="1714638150157" duration="1494000" />
       <workItem from="1714651872582" duration="2102000" />
       <workItem from="1714722925493" duration="91000" />
-      <workItem from="1714723958706" duration="14773000" />
+      <workItem from="1714723958706" duration="15104000" />
     </task>
     <servers />
   </component>
