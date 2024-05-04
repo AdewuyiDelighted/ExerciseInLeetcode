@@ -3,11 +3,6 @@ package leetcodeSpecial;
 import org.jetbrains.annotations.NotNull;
 
 public class ReversePrefixOfWord {
-    public static void main(String[] args) {
-        System.out.println(reversePrefix("abcdefd", 'd'));
-    }
-
-    //"dcbaefd
     public static String reversePrefix(String input, char ch) {
         String prefix = "";
         for (int index = 0; index < input.length(); index++) {

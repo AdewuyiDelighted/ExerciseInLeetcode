@@ -6,11 +6,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class SetMatrixZero {
-    public static void main(String[] args) {
-//        int[][] input = {{0,1,2,0},{3,4,5,2},{1,3,1,5}};
-        int[][] input = {{0,1}};
-        System.out.println(Arrays.deepToString(setMatrixZero(input)));
-    }
+
 
     public static int[][] setMatrixZero(int[][] input) {
         Set<Integer> rows = new HashSet<>();
