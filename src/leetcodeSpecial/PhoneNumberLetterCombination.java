@@ -5,9 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 public class PhoneNumberLetterCombination {
-    public static void main(String[] args) {
-        System.out.println(Arrays.toString(possibleLetterCombination("56790")));
-    }
+
 
     public static String[] possibleLetterCombination(String input) {
         ArrayList<String> letterCombination = new ArrayList<>();

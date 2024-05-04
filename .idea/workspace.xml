@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/BackSpaceStringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/BackSpaceStringCompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/BoatToSavePeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/BoatToSavePeopleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BackSpaceStringCompareTest.testTheBackSpaceWhenTheResultIsTrue">
+  <component name="RunManager" selected="Application.PhoneNumberLetterCombination">
     <configuration name="BackSpaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BackSpaceStringCompare" />
       <module name="leetCodeExercise" />
@@ -90,7 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BackSpaceStringCompareTest.testTheBackSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BoatToSavePeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BoatToSavePeople" />
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -98,10 +99,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BackSpaceStringCompareTest" />
-      <option name="METHOD_NAME" value="testTheBackSpace" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneNumberLetterCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.PhoneNumberLetterCombination" />
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,7 +132,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfSegmentInStringTest.testThatFunctionReturnsTheSegmentOfString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BoatToSavePeopleTest.testTheNumberOfBoatThatWouldBeUsed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -131,35 +141,20 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.NumberOfSegmentInStringTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnsTheSegmentOfString" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.BoatToSavePeopleTest" />
+      <option name="METHOD_NAME" value="testTheNumberOfBoatThatWouldBeUsed" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetMatrixZeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.SetMatrixZeroTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneNumberLetterCombination" />
+        <item itemvalue="Application.BoatToSavePeople" />
+        <item itemvalue="JUnit.BoatToSavePeopleTest.testTheNumberOfBoatThatWouldBeUsed" />
         <item itemvalue="JUnit.BackSpaceStringCompareTest.testTheBackSpaceWhenTheResultIsTrue" />
         <item itemvalue="Application.BackSpaceStringCompare" />
-        <item itemvalue="JUnit.BackSpaceStringCompareTest.testTheBackSpace" />
-        <item itemvalue="JUnit.NumberOfSegmentInStringTest.testThatFunctionReturnsTheSegmentOfString" />
-        <item itemvalue="JUnit.SetMatrixZeroTest" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +262,9 @@
       <workItem from="1714638150157" duration="1494000" />
       <workItem from="1714651872582" duration="2102000" />
       <workItem from="1714722925493" duration="91000" />
-      <workItem from="1714723958706" duration="18975000" />
+      <workItem from="1714723958706" duration="20379000" />
+      <workItem from="1714846669793" duration="2645000" />
+      <workItem from="1714850342531" duration="4496000" />
     </task>
     <servers />
   </component>
@@ -389,7 +386,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/SetMatrixZero.java</url>
-          <line>53</line>
+          <line>49</line>
           <properties class="leetcodeSpecial.SetMatrixZero">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -398,7 +395,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/SetMatrixZero.java</url>
-          <line>32</line>
+          <line>28</line>
           <properties class="leetcodeSpecial.SetMatrixZero" method="setRow">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -407,7 +404,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/SetMatrixZero.java</url>
-          <line>42</line>
+          <line>38</line>
           <properties class="leetcodeSpecial.SetMatrixZero" method="setColum">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -416,7 +413,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/BackSpaceStringCompare.java</url>
-          <line>9</line>
+          <line>5</line>
           <properties class="leetcodeSpecial.BackSpaceStringCompare" method="backSpaceStringCompare">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -425,7 +422,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/BackSpaceStringCompare.java</url>
-          <line>15</line>
+          <line>11</line>
           <properties class="leetcodeSpecial.BackSpaceStringCompare" method="removeBackSlash">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
