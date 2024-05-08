@@ -1,9 +1,6 @@
 package leetcodeSpecial;
 
 public class SortCharacterByFrequency {
-    public static void main(String[] args) {
-        System.out.println(sortFrequency("tree"));
-    }
 
     public static String sortFrequency(String word) {
         for (int index = 0; index < word.length(); index++) {
