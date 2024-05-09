@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/RearrangeArrayElementBySignTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,9 +76,9 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PositionOfLargestGroupTest">
-    <configuration name="PositionOfLargestGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.PositionOfLargestGroup" />
+  <component name="RunManager" selected="JUnit.RearrangeArrayElementBySignTest">
+    <configuration name="RearrangeArrayElementBySign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RearrangeArrayElementBySign" />
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -103,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositionOfLargestGroupTest.testThatFunctionReturnTheIndexOfTheLargestGroup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RearrangeArrayElementBySignTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -112,14 +114,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.PositionOfLargestGroupTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnTheIndexOfTheLargestGroup" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RearrangeArrayElementBySignTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RearrangeArrayElementBySignTest.testFunctionRearrangeArrayAccordingToSign" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RearrangeArrayElementBySignTest" />
+      <option name="METHOD_NAME" value="testFunctionRearrangeArrayAccordingToSign" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositionOfLargestGroupTest.testThatFunctionReturnTheIndexOfTheLargestGroupWhenThereIsJustOneLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RearrangeArrayElementBySignTest.testFunctionRearrangeArrayAccordingToSignWhenInputIsShorter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -128,24 +145,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.PositionOfLargestGroupTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnTheIndexOfTheLargestGroupWhenThereIsJustOneLetter" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PositionOfLargestGroupTest.testThatFunctionReturnTheIndexOfTheLargestGroupWhenThereIsLongString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.PositionOfLargestGroupTest" />
-      <option name="METHOD_NAME" value="testThatFunctionReturnTheIndexOfTheLargestGroupWhenThereIsLongString" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RearrangeArrayElementBySignTest" />
+      <option name="METHOD_NAME" value="testFunctionRearrangeArrayAccordingToSignWhenInputIsShorter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RearrangeArrayElementBySignTest" />
+        <item itemvalue="JUnit.RearrangeArrayElementBySignTest.testFunctionRearrangeArrayAccordingToSignWhenInputIsShorter" />
+        <item itemvalue="JUnit.RearrangeArrayElementBySignTest.testFunctionRearrangeArrayAccordingToSign" />
+        <item itemvalue="Application.RearrangeArrayElementBySign" />
         <item itemvalue="JUnit.PositionOfLargestGroupTest" />
-        <item itemvalue="JUnit.PositionOfLargestGroupTest.testThatFunctionReturnTheIndexOfTheLargestGroupWhenThereIsLongString" />
-        <item itemvalue="JUnit.PositionOfLargestGroupTest.testThatFunctionReturnTheIndexOfTheLargestGroupWhenThereIsJustOneLetter" />
-        <item itemvalue="JUnit.PositionOfLargestGroupTest.testThatFunctionReturnTheIndexOfTheLargestGroup" />
-        <item itemvalue="Application.PositionOfLargestGroup" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +272,10 @@
       <workItem from="1714863042372" duration="1004000" />
       <workItem from="1715010289627" duration="7425000" />
       <workItem from="1715118112711" duration="2179000" />
-      <workItem from="1715204308344" duration="1201000" />
+      <workItem from="1715204308344" duration="1989000" />
+      <workItem from="1715223448495" duration="806000" />
+      <workItem from="1715274804562" duration="1276000" />
+      <workItem from="1715289551008" duration="4908000" />
     </task>
     <servers />
   </component>
@@ -435,6 +439,51 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
+          <line>5</line>
+          <properties class="leetcodeSpecial.RearrangeArrayElementBySign" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
+          <line>11</line>
+          <properties class="leetcodeSpecial.RearrangeArrayElementBySign" method="rearrangeArrayElementBySign">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
+          <line>23</line>
+          <properties class="leetcodeSpecial.RearrangeArrayElementBySign">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
+          <line>24</line>
+          <properties class="leetcodeSpecial.RearrangeArrayElementBySign" method="inputLessThanZero">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
+          <line>36</line>
+          <properties class="leetcodeSpecial.RearrangeArrayElementBySign" method="inputGreaterThanZero">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>
