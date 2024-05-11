@@ -3,13 +3,6 @@ import java.util.Arrays;
 import java.util.Date;
 
 public class ThirdMaximum {
-
-    public static void main(String[] args) {
-        int[] numbers = {2,2,3,1};
-        System.out.println(findThirdMaximum(numbers));
-
-    }
-
     public static ArrayList<Integer> distinctOf(int[] numbers) {
         ArrayList<Integer> distinctNumbers = new ArrayList<>();
         for (int number : numbers) {
