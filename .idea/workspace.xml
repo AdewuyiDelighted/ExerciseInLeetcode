@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/leetcodeSpecial/RearrangeArrayElementBySignTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -275,7 +271,7 @@
       <workItem from="1715204308344" duration="1989000" />
       <workItem from="1715223448495" duration="806000" />
       <workItem from="1715274804562" duration="1276000" />
-      <workItem from="1715289551008" duration="4908000" />
+      <workItem from="1715289551008" duration="5876000" />
     </task>
     <servers />
   </component>
@@ -451,7 +447,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
-          <line>11</line>
+          <line>7</line>
           <properties class="leetcodeSpecial.RearrangeArrayElementBySign" method="rearrangeArrayElementBySign">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -460,7 +456,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
-          <line>23</line>
+          <line>19</line>
           <properties class="leetcodeSpecial.RearrangeArrayElementBySign">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -469,7 +465,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
-          <line>24</line>
+          <line>20</line>
           <properties class="leetcodeSpecial.RearrangeArrayElementBySign" method="inputLessThanZero">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -478,7 +474,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
-          <line>36</line>
+          <line>32</line>
           <properties class="leetcodeSpecial.RearrangeArrayElementBySign" method="inputGreaterThanZero">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

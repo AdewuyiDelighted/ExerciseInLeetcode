@@ -1,6 +1,9 @@
 package leetcodeSpecial;
 
 public class SingleNumber {
+    public static void main(String[] args) {
+        System.out.println();
+    }
     public static int[] findTwoDistinctNumber(int[] array) {
         int[] distinctNumbers = new int[2];
         int counter = 0;
