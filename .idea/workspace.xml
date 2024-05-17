@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/GoatLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/GoatLatin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +75,9 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RearrangeArrayElementBySignTest">
-    <configuration name="RearrangeArrayElementBySign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RearrangeArrayElementBySign" />
+  <component name="RunManager" selected="JUnit.GoatLatinTest">
+    <configuration name="GoatLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.GoatLatin" />
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -88,7 +89,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositionOfLargestGroupTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GoatLatinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +98,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.PositionOfLargestGroupTest" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.GoatLatinTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoatLatinTest.testFunctionReturnTheGoatLatinOfGivenString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.GoatLatinTest" />
+      <option name="METHOD_NAME" value="testFunctionReturnTheGoatLatinOfGivenString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoatLatinTest.testFunctionReturnTheGoatLatinOfLongerGivenString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.GoatLatinTest" />
+      <option name="METHOD_NAME" value="testFunctionReturnTheGoatLatinOfLongerGivenString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,45 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RearrangeArrayElementBySignTest.testFunctionRearrangeArrayAccordingToSign" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RearrangeArrayElementBySignTest" />
-      <option name="METHOD_NAME" value="testFunctionRearrangeArrayAccordingToSign" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RearrangeArrayElementBySignTest.testFunctionRearrangeArrayAccordingToSignWhenInputIsShorter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RearrangeArrayElementBySignTest" />
-      <option name="METHOD_NAME" value="testFunctionRearrangeArrayAccordingToSignWhenInputIsShorter" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GoatLatinTest" />
+        <item itemvalue="JUnit.GoatLatinTest.testFunctionReturnTheGoatLatinOfLongerGivenString" />
+        <item itemvalue="JUnit.GoatLatinTest.testFunctionReturnTheGoatLatinOfGivenString" />
+        <item itemvalue="Application.GoatLatin" />
         <item itemvalue="JUnit.RearrangeArrayElementBySignTest" />
-        <item itemvalue="JUnit.RearrangeArrayElementBySignTest.testFunctionRearrangeArrayAccordingToSignWhenInputIsShorter" />
-        <item itemvalue="JUnit.RearrangeArrayElementBySignTest.testFunctionRearrangeArrayAccordingToSign" />
-        <item itemvalue="Application.RearrangeArrayElementBySign" />
-        <item itemvalue="JUnit.PositionOfLargestGroupTest" />
       </list>
     </recent_temporary>
   </component>
@@ -277,6 +278,7 @@
       <workItem from="1715463907849" duration="1009000" />
       <workItem from="1715541546689" duration="161000" />
       <workItem from="1715577084985" duration="54000" />
+      <workItem from="1715915482607" duration="2184000" />
     </task>
     <servers />
   </component>

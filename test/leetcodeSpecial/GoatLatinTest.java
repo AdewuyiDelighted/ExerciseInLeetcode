@@ -11,5 +11,11 @@ class GoatLatinTest {
         String output = "Imaa peaksmaaa oatGmaaaa atinLmaaaaa";
         assertEquals(output,GoatLatin.goatLatin(input));
     }
+    @Test
+    public void testFunctionReturnTheGoatLatinOfLongerGivenString(){
+        String input = "The quick brown fox jumped over the lazy dog";
+        String output = "heTmaa uickqmaaa rownbmaaaa oxfmaaaaa umpedjmaaaaaa overmaaaaaaa hetmaaaaaaaa azylmaaaaaaaaa ogdmaaaaaaaaaa";
+        assertEquals(output,GoatLatin.goatLatin(input));
+    }
 
 }
