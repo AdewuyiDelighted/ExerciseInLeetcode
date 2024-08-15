@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3976d698-fd60-4d72-a863-aacbc4431794" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DailyExerciseNew/CountNumberOfTeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyExerciseNew/NumberOfSeniorCitizens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DailyExerciseNew/CountNumberOfTeamsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/DailyExerciseNew/NumberOfSeniorCitizensTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcodeSpecial/GoatLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcodeSpecial/GoatLatin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +50,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Downloads/chatApp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Downloads/ubuntu/ubuntucont&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -67,6 +70,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="DailyExerciseNew" />
       <recent name="leetcodeSpecial" />
       <recent name="" />
       <recent name="geekForGeeks" />
@@ -75,16 +79,31 @@
       <recent name="leetcodeSpecial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GoatLatinTest">
-    <configuration name="GoatLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.GoatLatin" />
+  <component name="RunManager" selected="Application.CountNumberOfTeams">
+    <configuration name="CountNumberOfTeams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyExerciseNew.CountNumberOfTeams" />
       <module name="leetCodeExercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
+          <option name="PATTERN" value="DailyExerciseNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountNumberOfTeamsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetCodeExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DailyExerciseNew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DailyExerciseNew" />
+      <option name="MAIN_CLASS_NAME" value="DailyExerciseNew.CountNumberOfTeamsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,28 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RearrangeArrayElementBySignTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetCodeExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcodeSpecial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcodeSpecial" />
-      <option name="MAIN_CLASS_NAME" value="leetcodeSpecial.RearrangeArrayElementBySignTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountNumberOfTeams" />
+        <item itemvalue="JUnit.CountNumberOfTeamsTest" />
         <item itemvalue="JUnit.GoatLatinTest" />
         <item itemvalue="JUnit.GoatLatinTest.testFunctionReturnTheGoatLatinOfLongerGivenString" />
         <item itemvalue="JUnit.GoatLatinTest.testFunctionReturnTheGoatLatinOfGivenString" />
-        <item itemvalue="Application.GoatLatin" />
-        <item itemvalue="JUnit.RearrangeArrayElementBySignTest" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +282,11 @@
       <workItem from="1715463907849" duration="1009000" />
       <workItem from="1715541546689" duration="161000" />
       <workItem from="1715577084985" duration="54000" />
-      <workItem from="1715915482607" duration="2184000" />
+      <workItem from="1715915482607" duration="2747000" />
+      <workItem from="1715942146927" duration="371000" />
+      <workItem from="1723503207437" duration="6375000" />
+      <workItem from="1723510289363" duration="2399000" />
+      <workItem from="1723690194973" duration="891000" />
     </task>
     <servers />
   </component>
@@ -446,7 +454,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcodeSpecial/RearrangeArrayElementBySign.java</url>
           <line>5</line>
-          <properties class="leetcodeSpecial.RearrangeArrayElementBySign" method="main">
+          <properties class="leetcodeSpecial.RearrangeArrayElementBySign">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -487,6 +495,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DailyExerciseNew/CountNumberOfTeams.java</url>
+          <line>9</line>
+          <properties class="DailyExerciseNew.CountNumberOfTeams" method="countNumberOfTeam">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DailyExerciseNew/CountNumberOfTeams.java</url>
+          <line>24</line>
+          <properties class="DailyExerciseNew.CountNumberOfTeams" method="countGreaterElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/FindWordsContainingCharacter.java</url>
