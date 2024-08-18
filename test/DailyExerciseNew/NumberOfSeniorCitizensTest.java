@@ -13,5 +13,12 @@ class NumberOfSeniorCitizensTest {
         assertEquals(numberOfSeniorCitizen,NumberOfSeniorCitizens.getNumberOfSeniorCitizen(details));
 
     }
+    @Test
+    public void testThatFunctionCanReturnTheNumberOfSeniorCitizenWhenGiveDetailsIsTwo(){
+        String [] details = {"1313579440F2036","2921522980M5644"};
+        int numberOfSeniorCitizen = 0;
+        assertEquals(numberOfSeniorCitizen,NumberOfSeniorCitizens.getNumberOfSeniorCitizen(details));
+
+    }
 
 }
